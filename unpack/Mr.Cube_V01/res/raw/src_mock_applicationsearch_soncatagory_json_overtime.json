@@ -1,0 +1,50 @@
+{
+  "pageName": "Test",
+  "methodName": "getsonCategory",
+  "parentCode": "00",
+  "deviceToken": "25a82c77643f4071",
+  "userCd": "ASDL1B9DL006",
+  "USER_INFO": {
+    "accntComp": "00",
+    "compCode": "00",
+    "compName": "阿爾卑斯系統集成（大連）有限公司",
+    "deptCode": "ADSS103",
+    "deptName": "ｿﾘｭｰｼｮﾝ3課",
+    "deptNameABB": "SS1-3課",
+    "deptSetCode": "0",
+    "iconPic": "",
+    "msg": "",
+    "registerDate": "20190211",
+    "retireDate": "",
+    "userCode": "ASDL1B9DL006",
+    "userFlag": "0",
+    "userName": "李 陽"
+  },
+  "USER_RESOURCE_ITEM_LIST": [
+    {
+      "resourceCode": "e_user_select",
+      "userCode": ""
+    }
+  ],
+  "token": "eyJraWQiOiJrMSIsImFsZyI6IlJTMjU2In0.eyJpc3MiOiJBUFAiLCJhdWQiOiJBUFAiLCJleHAiOjE1OTU1NTcwNTAsImp0aSI6Ild0MXpNczlhMHFDU25CbHdEYXRTTXciLCJpYXQiOjE1OTQ5NTIyNTAsIm5iZiI6MTU5NDk1MjE5MCwic3ViIjoic3ViamVjdCIsInVzZXJJZCI6IkFTREwxQjlETDAwNiIsImF1ZGllbmNlIjoiQVBQIn0.I4MV1IzxA7wMlcOrmmowZYDiUE__uBeaRcH528IhvmE0AKT6CPH-48D-rhUDlqdnfMWeHoQCd3MHPipSv8guTHEfd6TugRggfRmr1EoXWQF0ZQjQegwgOrPGsZ8qFxwCBn7W7C6O0kFSllJZcyP6InZlHVv87qoxWVpt2MMxjZJgD6jgT96mopsAUYGkDpYyM9ueH_l_k2HjFKeA_B-cJC1EOI03NR6jkA7QDC49uk5a_B4PEHoYun7_nIDuqVUbSZSI0crU8VbmOm2YW91C3ePpmrCbmRbc07tLGkIEcwmDtHp1HHAJsGzOD8Un0YxMpoy2OhA229KxLI8oqJd_Dw",
+  "result": {
+    "listScopes": [
+      {
+        "attdCode": "00A",
+        "attdName": "平日"
+      },
+      {
+        "attdCode": "00B",
+        "attdName": "休日"
+      },
+      {
+        "attdCode": "00C",
+        "attdName": "祝日"
+      },
+      {
+        "attdCode": "00D",
+        "attdName": "代休用"
+      }
+    ]
+  }
+}

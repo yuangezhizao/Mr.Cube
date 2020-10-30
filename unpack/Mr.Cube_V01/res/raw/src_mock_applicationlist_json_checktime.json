@@ -1,0 +1,57 @@
+{
+  "pageName": "Test",
+  "methodName": "checkTime",
+  "dayFrom": "20200701",
+  "dayTo": "20200621",
+  "deptNames": "deptNames",
+  "deviceToken": "25a82c77643f4071",
+  "userCd": "ASDL1B3DL012",
+  "USER_INFO": {
+    "accntComp": "00",
+    "compCode": "00",
+    "compName": "阿爾卑斯系統集成（大連）有限公司",
+    "deptCode": "ADSS103",
+    "deptName": "ｿﾘｭｰｼｮﾝ3課",
+    "deptNameABB": "SS1-3課",
+    "deptSetCode": "0",
+    "iconPic": "",
+    "msg": "",
+    "registerDate": "20130801",
+    "retireDate": "",
+    "userCode": "ASDL1B3DL012",
+    "userFlag": "0",
+    "userName": "王 濤"
+  },
+  "USER_RESOURCE_ITEM_LIST": [
+    {
+      "resourceCode": "appshowall_user_clear",
+      "userCode": ""
+    },
+    {
+      "resourceCode": "appshowall_user_select",
+      "userCode": ""
+    },
+    {
+      "resourceCode": "e_attend_deptSelect",
+      "userCode": ""
+    },
+    {
+      "resourceCode": "e_attnd_select_limit",
+      "userCode": ""
+    },
+    {
+      "resourceCode": "e_dept_search",
+      "userCode": ""
+    },
+    {
+      "resourceCode": "e_manager_conf",
+      "userCode": ""
+    },
+    {
+      "resourceCode": "e_user_select",
+      "userCode": ""
+    }
+  ],
+  "token": "eyJraWQiOiJrMSIsImFsZyI6IlJTMjU2In0.eyJpc3MiOiJBUFAiLCJhdWQiOiJBUFAiLCJleHAiOjE1OTU5MTEyMzEsImp0aSI6ImI1UWZ5b0hkVFY4VXFkQ2xyRWZWWnciLCJpYXQiOjE1OTUzMDY0MzEsIm5iZiI6MTU5NTMwNjM3MSwic3ViIjoic3ViamVjdCIsInVzZXJJZCI6IkFTREwxQjNETDAxMiIsImF1ZGllbmNlIjoiQVBQIn0.Hlx69Fb0YaR52UYMLJykfWts9pL9nzHE8FhBG6Yc9BSaO_5uT8B9khzXvFrllFEl9MwnXxZ3gw7Yw9UKkhDZDgTc_BWIQBzqe4IkCNmbs5L3gavj9AjPN5jAboiiqv8V_WjPrzSiPGGBIVdjxuNVRxA8U_v1HfzYYb5FnzYH6eREoqCVHMlD-vrwnAliZ_hPxDLgqs1g0Tp_2r6YZvQJzpGqAiLJbl9DCmVv5V0L0SOurh8V8SvQHYJwB887ediS4T6hGhu_qZ6Ro3qb6DKnu1cvuLxewetit4IwXrhurFJ2L4uOP4h1vm9pL2HIb3Vcpr6UNYPqSgyAGYYrpCoDvA",
+  "result": "{\"msgDetail\":\"From以降の日付を入力してください。\",\"msgType\":\"error\"}"
+}
