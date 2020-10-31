@@ -1,0 +1,121 @@
+{
+  "userCode": "ASDL3DL00287",
+  "password": "123456",
+  "methodName": "doLogin",
+  "pageName": "Login",
+  "os": "android",
+  "deviceToken": "25a82c77643f4071",
+  "result": {
+    "USER_INFO": {
+      "accntComp": "008",
+      "compCode": "00",
+      "compName": "阿爾卑斯系統集成（大連）有限公司",
+      "deptCode": "ADSS103",
+      "deptName": "ｿﾘｭｰｼｮﾝ3課",
+      "deptNameABB": "SS1-3課",
+      "deptSetCode": "0",
+      "msg": "",
+      "registerDate": "20180910",
+      "retireDate": "",
+      "userCode": "ASDL3DL00287",
+      "userFlag": "1",
+      "userName": "景 源"
+    },
+    "USER_RESOURCE_ITEM_LIST": [],
+    "MENU_LIST": [
+      {
+        "cREATED_DATE": "",
+        "cREATED_USER_CODE": "",
+        "childMenus": [
+          {
+            "cREATED_DATE": "",
+            "cREATED_USER_CODE": "",
+            "childMenus": [],
+            "deviceType": 0,
+            "fatherMenuCode": "ac_application",
+            "menuCode": "appl_application",
+            "menuDscrp": "申請",
+            "menuLevel": 1,
+            "menuUrl": "application/init",
+            "sortId": 0,
+            "uPDATE_DATE": "",
+            "uPDATE_USER_CODE": "",
+            "userCode": ""
+          },
+          {
+            "cREATED_DATE": "",
+            "cREATED_USER_CODE": "",
+            "childMenus": [],
+            "deviceType": 0,
+            "fatherMenuCode": "ac_application",
+            "menuCode": "appl_search",
+            "menuDscrp": "申請検索",
+            "menuLevel": 1,
+            "menuUrl": "applicationshowall/init",
+            "sortId": 0,
+            "uPDATE_DATE": "",
+            "uPDATE_USER_CODE": "",
+            "userCode": ""
+          },
+          {
+            "cREATED_DATE": "",
+            "cREATED_USER_CODE": "",
+            "childMenus": [],
+            "deviceType": 0,
+            "fatherMenuCode": "ac_application",
+            "menuCode": "appl_expense_account",
+            "menuDscrp": "交通費領収書精算",
+            "menuLevel": 1,
+            "menuUrl": "expenseAccount/init",
+            "sortId": 0,
+            "uPDATE_DATE": "",
+            "uPDATE_USER_CODE": "",
+            "userCode": ""
+          }
+        ],
+        "deviceType": 0,
+        "fatherMenuCode": "-",
+        "menuCode": "ac_application",
+        "menuDscrp": "申請",
+        "menuLevel": 0,
+        "menuUrl": "",
+        "sortId": 0,
+        "uPDATE_DATE": "",
+        "uPDATE_USER_CODE": "",
+        "userCode": ""
+      },
+      {
+        "cREATED_DATE": "",
+        "cREATED_USER_CODE": "",
+        "childMenus": [
+          {
+            "cREATED_DATE": "",
+            "cREATED_USER_CODE": "",
+            "childMenus": [],
+            "deviceType": 0,
+            "fatherMenuCode": "ac_attnd_checking",
+            "menuCode": "attnd_monthly",
+            "menuDscrp": "月別勤怠",
+            "menuLevel": 1,
+            "menuUrl": "attendancemonth/init",
+            "sortId": 0,
+            "uPDATE_DATE": "",
+            "uPDATE_USER_CODE": "",
+            "userCode": ""
+          }
+        ],
+        "deviceType": 0,
+        "fatherMenuCode": "-",
+        "menuCode": "ac_attnd_checking",
+        "menuDscrp": "勤怠",
+        "menuLevel": 0,
+        "menuUrl": "",
+        "sortId": 0,
+        "uPDATE_DATE": "",
+        "uPDATE_USER_CODE": "",
+        "userCode": ""
+      }
+    ]
+  },
+  "token": "eyJraWQiOiJrMSIsImFsZyI6IlJTMjU2In0.eyJpc3MiOiJBUFAiLCJhdWQiOiJBUFAiLCJleHAiOjE1OTQwMjM3NTYsImp0aSI6InhWY3ZFYUxOWjUxVTRFamV5X3puQWciLCJpYXQiOjE1OTM0MTg5NTYsIm5iZiI6MTU5MzQxODg5Niwic3ViIjoic3ViamVjdCIsInVzZXJJZCI6IkFTREwzREwwMDI4NyIsImF1ZGllbmNlIjoiQVBQIn0.Yc229tQhUT9JH5g3Gw6O4C5x9FJZ_Y3V3tLSh7-X416f7TE-23CimxmjaxPR5U052CRFbjFHY08Lvf8uVL_FtKfVpugDIzRZf_wYcKUYw2ITXqvsRDdvKOkAWmop3YQQtRK_uL7W4lxS2fc2Ov3Zn7xOoMWUACv1Yb1pudKg647wUnQtVdlStuItYTFQQdmL-48SvviTz3wbHSgEZeruh_zKPpg0j3KS53AsmYMQXbAzqJT8E3qV2QBY1wX0ZkrqJ5Jt_WEs3HOwb3PO-7lrE5LSURPBWR37n4tm_tC2R55LNW12DCfQs1Et8u7PaYO13d-Qs44P8TRsVES1swQd4Q"
+}

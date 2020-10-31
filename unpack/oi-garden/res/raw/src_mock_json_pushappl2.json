@@ -1,0 +1,30 @@
+{
+  "applUserSet": [
+    "ASDL3DL00287"
+  ],
+  "loginLink": "http://10.30.10.149:8080/john/login",
+  "applId": "ASDL3DL0029020200618092210",
+  "subject": "[Mr.Cube]処理依頼_残業申請[景 源 2020/6/17(水)]",
+  "typeName": "残業",
+  "userMap": {
+    "景 源": [
+      {
+        "actualFlg": 1,
+        "actualFromAndTo": "2020/6/17(水)",
+        "actualTotal": "3.5"
+      }
+    ]
+  },
+  "applForUserName": "景 源",
+  "userCodeList": [
+    "ASDL1B3DL012"
+  ],
+  "userName": "景 源",
+  "ChiefUserName": "王 濤様",
+  "addressCCSet": [
+    "ASDL3DL00287"
+  ],
+  "applForReason": "2残業原因：UCCP 单体测试实施\n残業内容：BU变更SYTK0003修改   完成度予定：100％   实际完成度 50%",
+  "applicationviewLink": "http://10.30.10.149:8080/john/applicationview/init",
+  "titleLink": "http://10.30.10.149:8080/john"
+}

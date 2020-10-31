@@ -1,0 +1,30 @@
+{
+  "methodName": "findBeginEnd",
+  "pageName": "AttdMonth",
+  "userCodeAndDate": "{\"date\":\"20200827\",\"userCode\":\"ASDL3DL00287\"}",
+  "deviceToken": "25a82c77643f4071",
+  "userCd": "ASDL3DL00287",
+  "USER_INFO": {
+    "accntComp": "008",
+    "compCode": "00",
+    "compName": "阿爾卑斯系統集成（大連）有限公司",
+    "deptCode": "ADSS106",
+    "deptName": "業務革新G",
+    "deptNameABB": "業務革新G",
+    "deptSetCode": "0",
+    "iconPic": "",
+    "msg": "",
+    "registerDate": "20180910",
+    "retireDate": "",
+    "userCode": "ASDL3DL00287",
+    "userFlag": "1",
+    "userName": "景 源"
+  },
+  "USER_RESOURCE_ITEM_LIST": [],
+  "token": "eyJraWQiOiJrMSIsImFsZyI6IlJTMjU2In0.eyJpc3MiOiJBUFAiLCJhdWQiOiJBUFAiLCJleHAiOjE2MDQwMTk1MjcsImp0aSI6IkJ3RV8wTC1zTDBfMXRiRE8tcURZQUEiLCJpYXQiOjE2MDM0MTQ3MjcsIm5iZiI6MTYwMzQxNDY2Nywic3ViIjoic3ViamVjdCIsInVzZXJJZCI6IkFTREwzREwwMDI4NyIsImF1ZGllbmNlIjoiQVBQIn0.TjPqGcY-HcB0hzmoGSImp2nZYDXAGaQuVYuppMQVZlp_2o9lvlMqSvUyd5QbrrcJDi_8r8i0RUzSGZIjuJ3jcym78ij8-mhFYkbXLDkrvZYhbVyVBysPFF4Txd8OBrhR0R2RZjy8ZFkbKNoVD8C0nKk4x3bT3BRFzX1Bb4odZDMzE_WOhKTX0DcfWg8DUWxYoHC83E7LOibdViz7PlX6Fp-VGJhlKv8WPAsY_MhjqCPmObUpSeYACZ5AX-rvpr4LMlOqqBsr4NCH6grIDkBJuGkLRSlW67GprzxxhdyijTKFrM1Yn63Z_HN2T3Vv4pbBeyuw9PLFboGuLBPjqqtgew",
+  "result": {
+    "data": "[{\"0\":\"27350201bluColor\",\"1\":\"17250201bluColor\"},{\"0\":\"\",\"1\":\"\"},{},{\"attdName\":[{\"applId\":\"ASDL3DL0028720200827083827\",\"attdName\":\"在宅勤務\",\"attdCode\":\"0304\"}]}]",
+    "message": "",
+    "status": "OK"
+  }
+}

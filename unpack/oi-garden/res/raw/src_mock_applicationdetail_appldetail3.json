@@ -1,0 +1,143 @@
+{
+  "methodName": "confTotab",
+  "pageName": "ApplicantionDetail",
+  "applId": "ASDL1B9DL00620200703143446",
+  "deviceToken": "25a82c77643f4071",
+  "userCd": "ASDL1B3DL012",
+  "USER_INFO": {
+    "accntComp": "00",
+    "compCode": "00",
+    "compName": "阿爾卑斯系統集成（大連）有限公司",
+    "deptCode": "ADSS103",
+    "deptName": "ｿﾘｭｰｼｮﾝ3課",
+    "deptNameABB": "SS1-3課",
+    "deptSetCode": "0",
+    "iconPic": "https://mobile.alsi.cn/headimg/ASDL1B3DL012.jpg",
+    "msg": "",
+    "registerDate": "20130801",
+    "retireDate": "",
+    "userCode": "ASDL1B3DL012",
+    "userFlag": "0",
+    "userName": "王 濤"
+  },
+  "USER_RESOURCE_ITEM_LIST": [
+    {
+      "resourceCode": "appshowall_user_clear",
+      "userCode": ""
+    },
+    {
+      "resourceCode": "appshowall_user_select",
+      "userCode": ""
+    },
+    {
+      "resourceCode": "e_attend_deptSelect",
+      "userCode": ""
+    },
+    {
+      "resourceCode": "e_attnd_select_limit",
+      "userCode": ""
+    },
+    {
+      "resourceCode": "e_dept_search",
+      "userCode": ""
+    },
+    {
+      "resourceCode": "e_manager_conf",
+      "userCode": ""
+    },
+    {
+      "resourceCode": "e_user_select",
+      "userCode": ""
+    }
+  ],
+  "token": "eyJraWQiOiJrMSIsImFsZyI6IlJTMjU2In0.eyJpc3MiOiJBUFAiLCJhdWQiOiJBUFAiLCJleHAiOjE1OTUyMzc5ODksImp0aSI6IkdyNmlvcHR3MzdlQ3o1by1oSHRIR3ciLCJpYXQiOjE1OTQ2MzMxODksIm5iZiI6MTU5NDYzMzEyOSwic3ViIjoic3ViamVjdCIsInVzZXJJZCI6IkFTREwxQjNETDAxMiIsImF1ZGllbmNlIjoiQVBQIn0.gcCRLabsUMnpxJANF_C_8IOSiqq_v_XVgtyrXAPQSMmxO3Z2fZiK8twxNYtcz1xNG0Qc4KoQMLd0jmTStVUeqAXsE4QqNOyP0RaG1n7FFOexDOZz_9S7X32H_gkOaFaDTvMvGw-bElNUgZpNSzbJXkonVRnYmOy9JTsLOVi05aPq2-3wTpIN_rtJOxMEiYrIQBJbunDjS0Aba-Td1ZB_OEM0Oc_kJNp0JnaaPLq5OqHnUjsmIozFRdsHEBQJOF9YCkwKmu7uxp2cS44xPJhtGuU_6OU43zQUlRZs_MR87D8aDg5WqiMfBbfZx8zXXmLRfsiE_FFV5JNPy2H5x8o2GQ",
+  "result": {
+    "tab": [
+      false,
+      false,
+      false,
+      true
+    ],
+    "nowTab": "change",
+    "model": {},
+    "juFou": [],
+    "entity": {
+      "admitCode": "4",
+      "admitUserCode": "ASDL1B3DL012",
+      "admitUserName": "王 濤",
+      "agencyFlgMap": {},
+      "applId": "ASDL1B9DL00620200703143446",
+      "applStatus": "1",
+      "applStatusName": "処理中",
+      "applicationTabsDetailEntity": [
+        {
+          "admit": "1",
+          "agencyFlg": [
+            "0"
+          ],
+          "changeFrom": "08:30",
+          "changeTo": "17:30",
+          "date": "2020/06/27(土)",
+          "from": "―:―",
+          "seqNo": "0",
+          "technicianFlg": "0",
+          "to": "―:―",
+          "userCode": "ASDL1B9DL006",
+          "userName": "李 陽"
+        },
+        {
+          "admit": "1",
+          "agencyFlg": [
+            "0"
+          ],
+          "changeFrom": "08:30",
+          "changeTo": "17:30",
+          "date": "2020/06/28(日)",
+          "from": "―:―",
+          "seqNo": "1",
+          "technicianFlg": "0",
+          "to": "―:―",
+          "userCode": "ASDL1B9DL006",
+          "userName": "李 陽"
+        },
+        {
+          "admit": "1",
+          "agencyFlg": [
+            "0"
+          ],
+          "changeFrom": "08:30",
+          "changeTo": "17:30",
+          "date": "2020/06/29(月)",
+          "from": "08:16",
+          "seqNo": "2",
+          "technicianFlg": "0",
+          "to": "18:15",
+          "userCode": "ASDL1B9DL006",
+          "userName": "李 陽"
+        }
+      ],
+      "attdCode": "0201",
+      "beginTime": "08:30",
+      "btnShowFlg": "4",
+      "ccUserCode": "",
+      "ccUserName": "",
+      "confirmFlg": "0",
+      "deptCode": "ADSS103",
+      "deptConfUserCode": "ASDL1B3DL012",
+      "deptConfUserName": "王 濤",
+      "deptName": "ｿﾘｭｰｼｮﾝ3課",
+      "fileAdmitCode": "1",
+      "fileMap": {},
+      "noonBegin": "12:10",
+      "noonOver": "13:10",
+      "overTime": "17:30",
+      "processId": "720142",
+      "reasonForAppl": "打刻",
+      "taskId": "720158",
+      "userCode": "ASDL1B3DL012",
+      "userMap": {
+        "ASDL1B9DL006": "李 陽"
+      }
+    }
+  }
+}
