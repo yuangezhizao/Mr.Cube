@@ -35,3 +35,40 @@ Connection: keep-alive
 <!-- a padding to disable MSIE and Chrome friendly error page -->
 <!-- a padding to disable MSIE and Chrome friendly error page -->
 ```
+```
+POST https://mobile.alsi.cn/mrcube/appUpdate/checkVersion HTTP/1.1
+token: undefined
+userid: undefined
+Content-Type: application/json
+Content-Length: 40
+Host: mobile.alsi.cn
+Connection: Keep-Alive
+Accept-Encoding: gzip
+User-Agent: okhttp/3.12.1
+
+{"platform":"android","version":"1.0.4"}
+```
+```
+HTTP/1.1 200
+Server: nginx/1.17.8
+Date: Sat, 31 Oct 2020 14:40:06 GMT
+Content-Type: application/json;charset=utf-8
+Content-Length: 406
+Connection: keep-alive
+
+{
+    "code": 0,
+    "data": {
+        "appSize": "25666",
+        "description": "1.App图标变更\r\n2.修复部分页面出现的闪退和白屏问题\r\n3.修复申请信息推送失败的问题\r\n4.修复部分消息国际化缺失的问题",
+        "downloadUrl": "https://mobile.alsi.cn/download/app.html",
+        "enable": "1",
+        "id": 36,
+        "mandatory": "1",
+        "platform": "android",
+        "updateDate": "2020-10-27",
+        "version": "1.0.6"
+    },
+    "msg": "i18n_versionUpToDate"
+}
+```
