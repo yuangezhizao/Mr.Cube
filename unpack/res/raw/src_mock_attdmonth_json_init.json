@@ -1,0 +1,404 @@
+{
+  "pageName": "Test",
+  "methodName": "init",
+  "deviceToken": "25a82c77643f4071",
+  "userCd": "ASDL3DL00287",
+  "USER_INFO": {
+    "accntComp": "008",
+    "compCode": "00",
+    "compName": "阿爾卑斯系統集成（大連）有限公司",
+    "deptCode": "ADSS103",
+    "deptName": "ｿﾘｭｰｼｮﾝ3課",
+    "deptNameABB": "SS1-3課",
+    "deptSetCode": "0",
+    "iconPic": "",
+    "msg": "",
+    "registerDate": "20180910",
+    "retireDate": "",
+    "userCode": "ASDL3DL00287",
+    "userFlag": "1",
+    "userName": "景 源"
+  },
+  "USER_RESOURCE_ITEM_LIST": [],
+  "token": "eyJraWQiOiJrMSIsImFsZyI6IlJTMjU2In0.eyJpc3MiOiJBUFAiLCJhdWQiOiJBUFAiLCJleHAiOjE1OTg5NDQ4NzEsImp0aSI6IlhEODRTZGdFa0NYMVE2RmFwX211TWciLCJpYXQiOjE1OTgzNDAwNzEsIm5iZiI6MTU5ODM0MDAxMSwic3ViIjoic3ViamVjdCIsInVzZXJJZCI6IkFTREwzREwwMDI4NyIsImF1ZGllbmNlIjoiQVBQIn0.NNDcriJPZQJMksrkHKX6u20YPA-lB718IjOLknHJEPm3SOIQk9DD6Vx1X0Pe1j1ldUfypm9imFY2MkjqDuZBuGrJAVs5mIEq9tAv-__yVRlZXBtrXzAnGIHGIVBbDhRyvtOK5UC0bZdUNBo2MpzVL2H1sMcn9n7yTtEqMvHWLVTqqAzkIdf75jP_tsZpQpZs4H9Ujzb5btjIHdXhT8lmzu-lQ-p8w9N8InTRaeSyFVtOx4FoGWsM0dcgnDzupo42TZhP1BNHrrKRZtL94fRgwXWbIckX6wzOAIjl_hsII_GhjFpkT1koP5r4ohbrxnzsIJeO1OWYHzcomUZQI38_1Q",
+  "result": {
+    "date": "202009",
+    "errMsgJson": "{\"01\":\"残業申請が承認されていません。\",\"02\":\"休暇申請が承認されていません。\",\"03\":\"外出/出張/顧客常駐/在宅勤務申請が承認されていません。\",\"04\":\"出勤の予定と実績が不一致、本日の申請を変更して、或は打刻情報修正を申請してください。\",\"05\":\"残業実績を申請したり、残業予定を取消してください。\"}",
+    "dayList": [
+      {
+        "day": 0,
+        "week": "0",
+        "weekDay": "not-this-month"
+      },
+      {
+        "day": 0,
+        "week": "0",
+        "weekDay": "not-this-month"
+      },
+      {
+        "day": 0,
+        "week": "0",
+        "weekDay": "not-this-month"
+      },
+      {
+        "day": 0,
+        "week": "0",
+        "weekDay": "not-this-month"
+      },
+      {
+        "attdCode": "009",
+        "beforeFlg": "0",
+        "day": 21,
+        "fromTime": "08:16",
+        "iconFlg": "00",
+        "toTime": "17:37",
+        "totalHours": "8H",
+        "warDateFlg": "0",
+        "week": "4",
+        "workType": {}
+      },
+      {
+        "attdCode": "009",
+        "beforeFlg": "0",
+        "day": 22,
+        "fromTime": "―:―",
+        "holidayName": "端午",
+        "iconFlg": "00",
+        "toTime": "―:―",
+        "warDateFlg": "0",
+        "week": "5",
+        "weekDay": "rest holiday",
+        "workType": {}
+      },
+      {
+        "attdCode": "003",
+        "beforeFlg": "1",
+        "day": 23,
+        "fromTime": "―:―",
+        "iconFlg": "00",
+        "toTime": "―:―",
+        "warDateFlg": "0",
+        "week": "6",
+        "weekDay": "rest",
+        "workType": {
+          "yel残": "3.5"
+        }
+      },
+      {
+        "attdCode": "003",
+        "beforeFlg": "0",
+        "day": 24,
+        "fromTime": "08:20",
+        "iconFlg": "00",
+        "toTime": "―:―",
+        "warDateFlg": "0",
+        "week": "0",
+        "workType": {
+          "yel残": "2.5",
+          "gre有": "8.0",
+          "red欠": "1.0"
+        }
+      },
+      {
+        "attdCode": "009",
+        "beforeFlg": "1",
+        "day": 25,
+        "iconFlg": "04",
+        "iconCode": "出勤の予定と実績が不一致、本日の申請を変更して、或は打刻情報修正を申請してください。",
+        "warDateFlg": "0",
+        "week": "1",
+        "workType": {}
+      },
+      {
+        "attdCode": "005",
+        "beforeFlg": "1",
+        "day": 26,
+        "iconFlg": "00",
+        "warDateFlg": "0",
+        "week": "2",
+        "workType": {
+          "gre有": "8.0"
+        }
+      },
+      {
+        "attdCode": "009",
+        "beforeFlg": "1",
+        "day": 27,
+        "iconFlg": "00",
+        "warDateFlg": "0",
+        "week": "3",
+        "workType": {}
+      },
+      {
+        "attdCode": "003",
+        "beforeFlg": "1",
+        "day": 28,
+        "iconFlg": "00",
+        "warDateFlg": "0",
+        "week": "4",
+        "workType": {}
+      },
+      {
+        "attdCode": "009",
+        "beforeFlg": "1",
+        "day": 29,
+        "iconFlg": "00",
+        "warDateFlg": "0",
+        "week": "5",
+        "weekDay": "rest",
+        "workType": {}
+      },
+      {
+        "attdCode": "005",
+        "beforeFlg": "1",
+        "day": 30,
+        "iconFlg": "00",
+        "warDateFlg": "0",
+        "week": "6",
+        "weekDay": "rest",
+        "workType": {}
+      },
+      {
+        "attdCode": "009",
+        "beforeFlg": "1",
+        "day": 31,
+        "iconFlg": "00",
+        "warDateFlg": "0",
+        "week": "0",
+        "workType": {}
+      },
+      {
+        "attdCode": "009",
+        "beforeFlg": "1",
+        "day": 1,
+        "iconFlg": "00",
+        "warDateFlg": "0",
+        "week": "1",
+        "workType": {}
+      },
+      {
+        "attdCode": "009",
+        "beforeFlg": "1",
+        "day": 2,
+        "iconFlg": "00",
+        "warDateFlg": "0",
+        "week": "2",
+        "workType": {}
+      },
+      {
+        "attdCode": "003",
+        "beforeFlg": "1",
+        "day": 3,
+        "iconFlg": "00",
+        "warDateFlg": "0",
+        "week": "3",
+        "workType": {}
+      },
+      {
+        "attdCode": "009",
+        "beforeFlg": "1",
+        "day": 4,
+        "iconFlg": "00",
+        "warDateFlg": "0",
+        "week": "4",
+        "workType": {}
+      },
+      {
+        "attdCode": "003",
+        "beforeFlg": "1",
+        "day": 5,
+        "iconFlg": "00",
+        "warDateFlg": "0",
+        "week": "5",
+        "weekDay": "rest",
+        "workType": {},
+        "outType": "0302"
+      },
+      {
+        "attdCode": "009",
+        "beforeFlg": "1",
+        "day": 6,
+        "iconFlg": "00",
+        "warDateFlg": "0",
+        "week": "6",
+        "weekDay": "rest",
+        "workType": {},
+        "outType": "0302"
+      },
+      {
+        "attdCode": "009",
+        "beforeFlg": "1",
+        "day": 7,
+        "iconFlg": "00",
+        "warDateFlg": "0",
+        "week": "0",
+        "workType": {},
+        "outType": "0301"
+      },
+      {
+        "attdCode": "009",
+        "beforeFlg": "1",
+        "day": 8,
+        "iconFlg": "00",
+        "warDateFlg": "0",
+        "week": "1",
+        "workType": {},
+        "outType": "0302"
+      },
+      {
+        "attdCode": "009",
+        "beforeFlg": "1",
+        "day": 9,
+        "iconFlg": "00",
+        "warDateFlg": "0",
+        "week": "2",
+        "workType": {},
+        "outType": "0303"
+      },
+      {
+        "attdCode": "009",
+        "beforeFlg": "1",
+        "day": 10,
+        "iconFlg": "00",
+        "warDateFlg": "0",
+        "week": "3",
+        "workType": {}
+      },
+      {
+        "attdCode": "009",
+        "beforeFlg": "1",
+        "day": 11,
+        "iconFlg": "00",
+        "warDateFlg": "0",
+        "week": "4",
+        "workType": {},
+        "outType": "0304"
+      },
+      {
+        "attdCode": "009",
+        "beforeFlg": "1",
+        "day": 12,
+        "iconFlg": "00",
+        "warDateFlg": "0",
+        "week": "5",
+        "weekDay": "rest",
+        "workType": {}
+      },
+      {
+        "attdCode": "009",
+        "beforeFlg": "1",
+        "day": 13,
+        "iconFlg": "00",
+        "warDateFlg": "0",
+        "week": "6",
+        "weekDay": "rest",
+        "workType": {},
+        "outType": "0305"
+      },
+      {
+        "attdCode": "009",
+        "beforeFlg": "1",
+        "day": 14,
+        "iconFlg": "00",
+        "warDateFlg": "0",
+        "week": "0",
+        "workType": {},
+        "outType": "0306"
+      },
+      {
+        "attdCode": "009",
+        "beforeFlg": "1",
+        "day": 15,
+        "iconFlg": "00",
+        "warDateFlg": "0",
+        "week": "1",
+        "workType": {}
+      },
+      {
+        "attdCode": "009",
+        "beforeFlg": "1",
+        "day": 16,
+        "iconFlg": "00",
+        "warDateFlg": "0",
+        "week": "2",
+        "workType": {}
+      },
+      {
+        "attdCode": "009",
+        "beforeFlg": "1",
+        "day": 17,
+        "iconFlg": "00",
+        "warDateFlg": "0",
+        "week": "3",
+        "workType": {}
+      },
+      {
+        "attdCode": "009",
+        "beforeFlg": "1",
+        "day": 18,
+        "iconFlg": "00",
+        "warDateFlg": "0",
+        "week": "4",
+        "workType": {}
+      },
+      {
+        "attdCode": "009",
+        "beforeFlg": "1",
+        "day": 19,
+        "iconFlg": "00",
+        "warDateFlg": "0",
+        "week": "5",
+        "weekDay": "rest",
+        "workType": {}
+      },
+      {
+        "attdCode": "009",
+        "beforeFlg": "1",
+        "day": 20,
+        "iconFlg": "00",
+        "warDateFlg": "0",
+        "week": "6",
+        "weekDay": "rest",
+        "workType": {}
+      },
+      {
+        "attdCode": "009",
+        "beforeFlg": "1",
+        "day": 21,
+        "iconFlg": "00",
+        "warDateFlg": "0",
+        "week": "6",
+        "workType": {}
+      }
+    ],
+    "attdinfoDetailTypeEntity": {
+      "attdTime": "8",
+      "date": "202009",
+      "endDate": 20,
+      "haveTime": "0",
+      "holidayTime": "0",
+      "leaveTime": "0",
+      "lessTime": "0",
+      "loginUserFlg": "0",
+      "month": 9,
+      "projCode": "P20G02701B,SSGY20G016,SSP2520001,SSP2520002,SSP2520007",
+      "projName": "【本体前】ALDL-物流搬送,戦略投資DX-携帯基盤,AOCHR　Henry保守,AOCHR　Henry保守共通,AOCHR　ナビ・HP・EDI保守共通",
+      "replaceWorkTime": "0",
+      "restAnlv": "36",
+      "restResidueTime": "0",
+      "restShift": "0",
+      "restTime": "0",
+      "restTimeSum": "36",
+      "status": "5",
+      "userCode": "ASDL3DL00287",
+      "userName": "景 源",
+      "workDays": 21,
+      "workTime": "0",
+      "workTimes": 168,
+      "year": 2020,
+      "yearAndMonth": 1598889600000
+    },
+    "userCode": "ASDL3DL00287",
+    "deptCode": ""
+  }
+}

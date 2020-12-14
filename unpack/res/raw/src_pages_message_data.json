@@ -1,0 +1,72 @@
+[
+  {
+    "id": 0,
+    "subject": "[Mr.Cube]処理依頼_残業申請[XXX XXX]",
+    "applId": "ASDL3DL0028720200707090001",
+    "content": "这是申请的内容",
+    "status": "1",
+    "delFlag": "0",
+    "createTime": "2020/07/07 09:10:23",
+    "createUser": "ASDL3DL00287",
+    "recordTime": "2020/08/24 09:10:23",
+    "recordUser": "ASDL3DL00287",
+    "typeName": "残業",
+    "userId": "ASDL3DL00287"
+  },
+  {
+    "id": 1,
+    "subject": "[Mr.Cube]処理依頼_残業申請[XXX XXX]",
+    "applId": "ASDL3DL0028720200707090001",
+    "content": "这是申请的理由",
+    "status": "1",
+    "delFlag": "0",
+    "createTime": "2020/07/07 09:10:23",
+    "createUser": "ASDL3DL00287",
+    "recordTime": "2020/08/20 23:10:23",
+    "recordUser": "ASDL3DL00287",
+    "typeName": "残業",
+    "userId": "ASDL1B9DL006"
+  },
+  {
+    "id": 2,
+    "subject": "[Mr.Cube]処理依頼_外出申請[XXX XXX]",
+    "applId": "ASDL1B8DL05920200707090002",
+    "content": "这是申请的内容这是申请的内容这是申请的内容这是申请的内容这是申请的内容这是申请的内容这是申请的内容这是申请的内容这是申请的内容这是申请的内容这是申请的内容这是申请的内容",
+    "status": "1",
+    "delFlag": "0",
+    "createTime": "2020/07/07 09:10:23",
+    "createUser": "ASDL3DL00287",
+    "recordTime": "2020/08/19 09:10:23",
+    "recordUser": "ASDL3DL00287",
+    "typeName": "外出",
+    "userId": "ASDL1B8DL059"
+  },
+  {
+    "id": 3,
+    "subject": "[Mr.Cube]処理依頼_外出申請[XXX XXX]",
+    "applId": "ASDL1B9DL00620200707091203",
+    "content": "这是申请的理由",
+    "status": "1",
+    "delFlag": "0",
+    "createTime": "2020/07/07 09:10:23",
+    "createUser": "ASDL3DL00287",
+    "recordTime": "2020/07/07 09:10:23",
+    "recordUser": "ASDL3DL00287",
+    "typeName": "外出",
+    "userId": "ASDL1B9DL006"
+  },
+  {
+    "id": 4,
+    "subject": "[Mr.Cube]処理依頼_残業申請[XXX XXX]",
+    "applId": "ASDL1B9DL00620200702091203",
+    "content": "这是申请的理由",
+    "status": "1",
+    "delFlag": "0",
+    "createTime": "2020/07/07 09:10:23",
+    "createUser": "ASDL3DL00287",
+    "recordTime": "2020/07/07 09:10:23",
+    "recordUser": "ASDL3DL00287",
+    "typeName": "残業",
+    "userId": "ASDL1B9DL006"
+  }
+]

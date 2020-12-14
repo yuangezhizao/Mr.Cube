@@ -1,0 +1,234 @@
+{
+  "userCode": "ASDL1A5DL064",
+  "password": "123456",
+  "methodName": "doLogin",
+  "pageName": "Login",
+  "os": "android",
+  "deviceToken": "25a82c77643f4071",
+  "result": {
+    "USER_INFO": {
+      "accntComp": "00",
+      "compCode": "00",
+      "compName": "阿爾卑斯系統集成（大連）有限公司",
+      "deptCode": "ADSS103",
+      "deptName": "ｿﾘｭｰｼｮﾝ3課",
+      "deptNameABB": "SS1-3課",
+      "deptSetCode": "0",
+      "iconPic": "",
+      "msg": "",
+      "registerDate": "20070801",
+      "retireDate": "",
+      "userCode": "ASDL1A5DL064",
+      "userFlag": "0",
+      "userName": "梁 冰"
+    },
+    "USER_RESOURCE_ITEM_LIST": [
+      {
+        "resourceCode": "e_user_select",
+        "userCode": ""
+      }
+    ],
+    "MENU_LIST": [
+      {
+        "cREATED_DATE": "",
+        "cREATED_USER_CODE": "",
+        "childMenus": [
+          {
+            "cREATED_DATE": "",
+            "cREATED_USER_CODE": "",
+            "childMenus": [],
+            "deviceType": 0,
+            "fatherMenuCode": "ac_application",
+            "menuCode": "appl_application",
+            "menuDscrp": "申請",
+            "menuLevel": 1,
+            "menuUrl": "application/init",
+            "sortId": 0,
+            "uPDATE_DATE": "",
+            "uPDATE_USER_CODE": "",
+            "userCode": ""
+          },
+          {
+            "cREATED_DATE": "",
+            "cREATED_USER_CODE": "",
+            "childMenus": [],
+            "deviceType": 0,
+            "fatherMenuCode": "ac_application",
+            "menuCode": "appl_approval",
+            "menuDscrp": "未処理一覧",
+            "menuLevel": 1,
+            "menuUrl": "applicationview/init",
+            "sortId": 0,
+            "uPDATE_DATE": "",
+            "uPDATE_USER_CODE": "",
+            "userCode": ""
+          },
+          {
+            "cREATED_DATE": "",
+            "cREATED_USER_CODE": "",
+            "childMenus": [],
+            "deviceType": 0,
+            "fatherMenuCode": "ac_application",
+            "menuCode": "appl_confirm",
+            "menuDscrp": "処理済一覧",
+            "menuLevel": 1,
+            "menuUrl": "appliconfirm/init",
+            "sortId": 0,
+            "uPDATE_DATE": "",
+            "uPDATE_USER_CODE": "",
+            "userCode": ""
+          },
+          {
+            "cREATED_DATE": "",
+            "cREATED_USER_CODE": "",
+            "childMenus": [],
+            "deviceType": 0,
+            "fatherMenuCode": "ac_application",
+            "menuCode": "appl_search",
+            "menuDscrp": "申請検索",
+            "menuLevel": 1,
+            "menuUrl": "applicationshowall/init",
+            "sortId": 0,
+            "uPDATE_DATE": "",
+            "uPDATE_USER_CODE": "",
+            "userCode": ""
+          },
+          {
+            "cREATED_DATE": "",
+            "cREATED_USER_CODE": "",
+            "childMenus": [],
+            "deviceType": 0,
+            "fatherMenuCode": "ac_application",
+            "menuCode": "appl_expense_account",
+            "menuDscrp": "交通費領収書精算",
+            "menuLevel": 1,
+            "menuUrl": "expenseAccount/init",
+            "sortId": 0,
+            "uPDATE_DATE": "",
+            "uPDATE_USER_CODE": "",
+            "userCode": ""
+          }
+        ],
+        "deviceType": 0,
+        "fatherMenuCode": "-",
+        "menuCode": "ac_application",
+        "menuDscrp": "申請",
+        "menuLevel": 0,
+        "menuUrl": "",
+        "sortId": 0,
+        "uPDATE_DATE": "",
+        "uPDATE_USER_CODE": "",
+        "userCode": ""
+      },
+      {
+        "cREATED_DATE": "",
+        "cREATED_USER_CODE": "",
+        "childMenus": [
+          {
+            "cREATED_DATE": "",
+            "cREATED_USER_CODE": "",
+            "childMenus": [],
+            "deviceType": 0,
+            "fatherMenuCode": "ac_attnd_checking",
+            "menuCode": "attnd_monthly",
+            "menuDscrp": "月別勤怠",
+            "menuLevel": 1,
+            "menuUrl": "attendancemonth/init",
+            "sortId": 0,
+            "uPDATE_DATE": "",
+            "uPDATE_USER_CODE": "",
+            "userCode": ""
+          }
+        ],
+        "deviceType": 0,
+        "fatherMenuCode": "-",
+        "menuCode": "ac_attnd_checking",
+        "menuDscrp": "勤怠",
+        "menuLevel": 0,
+        "menuUrl": "",
+        "sortId": 0,
+        "uPDATE_DATE": "",
+        "uPDATE_USER_CODE": "",
+        "userCode": ""
+      },
+      {
+        "cREATED_DATE": "",
+        "cREATED_USER_CODE": "",
+        "childMenus": [
+          {
+            "cREATED_DATE": "",
+            "cREATED_USER_CODE": "",
+            "childMenus": [],
+            "deviceType": 0,
+            "fatherMenuCode": "ac_attendance",
+            "menuCode": "attendance_status",
+            "menuDscrp": "出勤状況一覧",
+            "menuLevel": 1,
+            "menuUrl": "attendance/init",
+            "sortId": 0,
+            "uPDATE_DATE": "",
+            "uPDATE_USER_CODE": "",
+            "userCode": ""
+          },
+          {
+            "cREATED_DATE": "",
+            "cREATED_USER_CODE": "",
+            "childMenus": [],
+            "deviceType": 0,
+            "fatherMenuCode": "ac_attendance",
+            "menuCode": "attendance_time",
+            "menuDscrp": "出勤時間一覧",
+            "menuLevel": 1,
+            "menuUrl": "attendancetime/init",
+            "sortId": 0,
+            "uPDATE_DATE": "",
+            "uPDATE_USER_CODE": "",
+            "userCode": ""
+          }
+        ],
+        "deviceType": 0,
+        "fatherMenuCode": "-",
+        "menuCode": "ac_attendance",
+        "menuDscrp": "出勤",
+        "menuLevel": 0,
+        "menuUrl": "",
+        "sortId": 0,
+        "uPDATE_DATE": "",
+        "uPDATE_USER_CODE": "",
+        "userCode": ""
+      },
+      {
+        "cREATED_DATE": "",
+        "cREATED_USER_CODE": "",
+        "childMenus": [
+          {
+            "cREATED_DATE": "",
+            "cREATED_USER_CODE": "",
+            "childMenus": [],
+            "deviceType": 0,
+            "fatherMenuCode": "ac_master",
+            "menuCode": "project_master",
+            "menuDscrp": "プロジェクト",
+            "menuLevel": 1,
+            "menuUrl": "projmantain/init",
+            "sortId": 0,
+            "uPDATE_DATE": "",
+            "uPDATE_USER_CODE": "",
+            "userCode": ""
+          }
+        ],
+        "deviceType": 0,
+        "fatherMenuCode": "-",
+        "menuCode": "ac_master",
+        "menuDscrp": "MASTER",
+        "menuLevel": 0,
+        "menuUrl": "",
+        "sortId": 0,
+        "uPDATE_DATE": "",
+        "uPDATE_USER_CODE": "",
+        "userCode": ""
+      }
+    ]
+  },
+  "token": "eyJraWQiOiJrMSIsImFsZyI6IlJTMjU2In0.eyJpc3MiOiJBUFAiLCJhdWQiOiJBUFAiLCJleHAiOjE1OTY1MDk1MzEsImp0aSI6InlJSl8ySGtEei1hOGdMUDZDRmVyclEiLCJpYXQiOjE1OTU5MDQ3MzEsIm5iZiI6MTU5NTkwNDY3MSwic3ViIjoic3ViamVjdCIsInVzZXJJZCI6IkFTREwxQTVETDA2NCIsImF1ZGllbmNlIjoiQVBQIn0.FJoEyqVmACj4lI8KDjVi_ixDF2Nvg9GnnjA9--2S3osEitrc8u44OuKWF11qYrnGfnAc_NSJod90Oy6TlcyEZgdzT-_E-pD9il5Si-LRYkrzFg7iPe05x1u2MWeWTb-F0RDfmJ0hqxEZuN_TBLaxTo3Nwi2RO4DvQ51pNlCI3dhhCW6xbo04X9YWDhF186LNLoqOBJ8cYkonJOKaCXmKIbJ3SKGZM4p8xWLa2kx3EMwBLxELeD_zvq-_Zx4bbbLldJYhQrKD-V-M8YEDfH2vXjiNmH0UhI0Fl9vsOH4WhhXmadnzuNFcPAGM1J_PTS8hDg1o9bmJWcmJRB-8guqokQ"
+}

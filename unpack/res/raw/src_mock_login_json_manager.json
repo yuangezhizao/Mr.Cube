@@ -1,0 +1,348 @@
+{
+  "userCode": "ASDL1B3DL012",
+  "password": "123456",
+  "methodName": "doLogin",
+  "pageName": "Login",
+  "os": "android",
+  "deviceToken": "25a82c77643f4071",
+  "result": {
+    "USER_INFO": {
+      "accntComp": "00",
+      "compCode": "00",
+      "compName": "阿爾卑斯系統集成（大連）有限公司",
+      "deptCode": "ADSS103",
+      "deptName": "ｿﾘｭｰｼｮﾝ3課",
+      "deptNameABB": "SS1-3課",
+      "deptSetCode": "0",
+      "iconPic": "",
+      "msg": "",
+      "registerDate": "20130801",
+      "retireDate": "",
+      "userCode": "ASDL1B3DL012",
+      "userFlag": "0",
+      "userName": "王 濤"
+    },
+    "USER_RESOURCE_ITEM_LIST": [
+      {
+        "resourceCode": "appshowall_user_clear",
+        "userCode": ""
+      },
+      {
+        "resourceCode": "appshowall_user_select",
+        "userCode": ""
+      },
+      {
+        "resourceCode": "e_attend_deptSelect",
+        "userCode": ""
+      },
+      {
+        "resourceCode": "e_attnd_select_limit",
+        "userCode": ""
+      },
+      {
+        "resourceCode": "e_dept_search",
+        "userCode": ""
+      },
+      {
+        "resourceCode": "e_manager_conf",
+        "userCode": ""
+      },
+      {
+        "resourceCode": "e_user_select",
+        "userCode": ""
+      }
+    ],
+    "MENU_LIST": [
+      {
+        "cREATED_DATE": "",
+        "cREATED_USER_CODE": "",
+        "childMenus": [
+          {
+            "cREATED_DATE": "",
+            "cREATED_USER_CODE": "",
+            "childMenus": [],
+            "deviceType": 0,
+            "fatherMenuCode": "ac_application",
+            "menuCode": "appl_application",
+            "menuDscrp": "申請",
+            "menuLevel": 1,
+            "menuUrl": "application/init",
+            "sortId": 0,
+            "uPDATE_DATE": "",
+            "uPDATE_USER_CODE": "",
+            "userCode": ""
+          },
+          {
+            "cREATED_DATE": "",
+            "cREATED_USER_CODE": "",
+            "childMenus": [],
+            "deviceType": 0,
+            "fatherMenuCode": "ac_application",
+            "menuCode": "appl_approval",
+            "menuDscrp": "未処理一覧",
+            "menuLevel": 1,
+            "menuUrl": "applicationview/init",
+            "sortId": 0,
+            "uPDATE_DATE": "",
+            "uPDATE_USER_CODE": "",
+            "userCode": ""
+          },
+          {
+            "cREATED_DATE": "",
+            "cREATED_USER_CODE": "",
+            "childMenus": [],
+            "deviceType": 0,
+            "fatherMenuCode": "ac_application",
+            "menuCode": "appl_confirm",
+            "menuDscrp": "処理済一覧",
+            "menuLevel": 1,
+            "menuUrl": "appliconfirm/init",
+            "sortId": 0,
+            "uPDATE_DATE": "",
+            "uPDATE_USER_CODE": "",
+            "userCode": ""
+          },
+          {
+            "cREATED_DATE": "",
+            "cREATED_USER_CODE": "",
+            "childMenus": [],
+            "deviceType": 0,
+            "fatherMenuCode": "ac_application",
+            "menuCode": "appl_search",
+            "menuDscrp": "申請検索",
+            "menuLevel": 1,
+            "menuUrl": "applicationshowall/init",
+            "sortId": 0,
+            "uPDATE_DATE": "",
+            "uPDATE_USER_CODE": "",
+            "userCode": ""
+          },
+          {
+            "cREATED_DATE": "",
+            "cREATED_USER_CODE": "",
+            "childMenus": [],
+            "deviceType": 0,
+            "fatherMenuCode": "ac_application",
+            "menuCode": "appl_agent",
+            "menuDscrp": "代理設定",
+            "menuLevel": 1,
+            "menuUrl": "agent/init",
+            "sortId": 0,
+            "uPDATE_DATE": "",
+            "uPDATE_USER_CODE": "",
+            "userCode": ""
+          },
+          {
+            "cREATED_DATE": "",
+            "cREATED_USER_CODE": "",
+            "childMenus": [],
+            "deviceType": 0,
+            "fatherMenuCode": "ac_application",
+            "menuCode": "appl_expense_account",
+            "menuDscrp": "交通費領収書精算",
+            "menuLevel": 1,
+            "menuUrl": "expenseAccount/init",
+            "sortId": 0,
+            "uPDATE_DATE": "",
+            "uPDATE_USER_CODE": "",
+            "userCode": ""
+          }
+        ],
+        "deviceType": 0,
+        "fatherMenuCode": "-",
+        "menuCode": "ac_application",
+        "menuDscrp": "申請",
+        "menuLevel": 0,
+        "menuUrl": "",
+        "sortId": 0,
+        "uPDATE_DATE": "",
+        "uPDATE_USER_CODE": "",
+        "userCode": ""
+      },
+      {
+        "cREATED_DATE": "",
+        "cREATED_USER_CODE": "",
+        "childMenus": [
+          {
+            "cREATED_DATE": "",
+            "cREATED_USER_CODE": "",
+            "childMenus": [],
+            "deviceType": 0,
+            "fatherMenuCode": "ac_attnd_checking",
+            "menuCode": "attnd_monthly",
+            "menuDscrp": "月別勤怠",
+            "menuLevel": 1,
+            "menuUrl": "attendancemonth/init",
+            "sortId": 0,
+            "uPDATE_DATE": "",
+            "uPDATE_USER_CODE": "",
+            "userCode": ""
+          },
+          {
+            "cREATED_DATE": "",
+            "cREATED_USER_CODE": "",
+            "childMenus": [],
+            "deviceType": 0,
+            "fatherMenuCode": "ac_attnd_checking",
+            "menuCode": "attnd_approval",
+            "menuDscrp": "月次勤怠承認",
+            "menuLevel": 1,
+            "menuUrl": "attendancemonthconfirm/init",
+            "sortId": 0,
+            "uPDATE_DATE": "",
+            "uPDATE_USER_CODE": "",
+            "userCode": ""
+          },
+          {
+            "cREATED_DATE": "",
+            "cREATED_USER_CODE": "",
+            "childMenus": [],
+            "deviceType": 0,
+            "fatherMenuCode": "ac_attnd_checking",
+            "menuCode": "attnd_search",
+            "menuDscrp": "勤怠検索&出力",
+            "menuLevel": 1,
+            "menuUrl": "attdsearchexport/init",
+            "sortId": 0,
+            "uPDATE_DATE": "",
+            "uPDATE_USER_CODE": "",
+            "userCode": ""
+          },
+          {
+            "cREATED_DATE": "",
+            "cREATED_USER_CODE": "",
+            "childMenus": [],
+            "deviceType": 0,
+            "fatherMenuCode": "ac_attnd_checking",
+            "menuCode": "work_overAppl",
+            "menuDscrp": "年度残業時間統計",
+            "menuLevel": 1,
+            "menuUrl": "workOverStatistics/init",
+            "sortId": 0,
+            "uPDATE_DATE": "",
+            "uPDATE_USER_CODE": "",
+            "userCode": ""
+          }
+        ],
+        "deviceType": 0,
+        "fatherMenuCode": "-",
+        "menuCode": "ac_attnd_checking",
+        "menuDscrp": "勤怠",
+        "menuLevel": 0,
+        "menuUrl": "",
+        "sortId": 0,
+        "uPDATE_DATE": "",
+        "uPDATE_USER_CODE": "",
+        "userCode": ""
+      },
+      {
+        "cREATED_DATE": "",
+        "cREATED_USER_CODE": "",
+        "childMenus": [
+          {
+            "cREATED_DATE": "",
+            "cREATED_USER_CODE": "",
+            "childMenus": [],
+            "deviceType": 0,
+            "fatherMenuCode": "ac_attendance",
+            "menuCode": "attendance_status",
+            "menuDscrp": "出勤状況一覧",
+            "menuLevel": 1,
+            "menuUrl": "attendance/init",
+            "sortId": 0,
+            "uPDATE_DATE": "",
+            "uPDATE_USER_CODE": "",
+            "userCode": ""
+          },
+          {
+            "cREATED_DATE": "",
+            "cREATED_USER_CODE": "",
+            "childMenus": [],
+            "deviceType": 0,
+            "fatherMenuCode": "ac_attendance",
+            "menuCode": "attendance_time",
+            "menuDscrp": "出勤時間一覧",
+            "menuLevel": 1,
+            "menuUrl": "attendancetime/init",
+            "sortId": 0,
+            "uPDATE_DATE": "",
+            "uPDATE_USER_CODE": "",
+            "userCode": ""
+          }
+        ],
+        "deviceType": 0,
+        "fatherMenuCode": "-",
+        "menuCode": "ac_attendance",
+        "menuDscrp": "出勤",
+        "menuLevel": 0,
+        "menuUrl": "",
+        "sortId": 0,
+        "uPDATE_DATE": "",
+        "uPDATE_USER_CODE": "",
+        "userCode": ""
+      },
+      {
+        "cREATED_DATE": "",
+        "cREATED_USER_CODE": "",
+        "childMenus": [
+          {
+            "cREATED_DATE": "",
+            "cREATED_USER_CODE": "",
+            "childMenus": [],
+            "deviceType": 0,
+            "fatherMenuCode": "ac_master",
+            "menuCode": "project_master",
+            "menuDscrp": "プロジェクト",
+            "menuLevel": 1,
+            "menuUrl": "projmantain/init",
+            "sortId": 0,
+            "uPDATE_DATE": "",
+            "uPDATE_USER_CODE": "",
+            "userCode": ""
+          },
+          {
+            "cREATED_DATE": "",
+            "cREATED_USER_CODE": "",
+            "childMenus": [],
+            "deviceType": 0,
+            "fatherMenuCode": "ac_master",
+            "menuCode": "attendance_show_all",
+            "menuDscrp": "社員出勤資格",
+            "menuLevel": 1,
+            "menuUrl": "attendanceshowall/init",
+            "sortId": 0,
+            "uPDATE_DATE": "",
+            "uPDATE_USER_CODE": "",
+            "userCode": ""
+          },
+          {
+            "cREATED_DATE": "",
+            "cREATED_USER_CODE": "",
+            "childMenus": [],
+            "deviceType": 0,
+            "fatherMenuCode": "ac_master",
+            "menuCode": "annual",
+            "menuDscrp": "年休",
+            "menuLevel": 1,
+            "menuUrl": "useran/init",
+            "sortId": 0,
+            "uPDATE_DATE": "",
+            "uPDATE_USER_CODE": "",
+            "userCode": ""
+          }
+        ],
+        "deviceType": 0,
+        "fatherMenuCode": "-",
+        "menuCode": "ac_master",
+        "menuDscrp": "MASTER",
+        "menuLevel": 0,
+        "menuUrl": "",
+        "sortId": 0,
+        "uPDATE_DATE": "",
+        "uPDATE_USER_CODE": "",
+        "userCode": ""
+      }
+    ]
+  },
+  "token": "eyJraWQiOiJrMSIsImFsZyI6IlJTMjU2In0.eyJpc3MiOiJBUFAiLCJhdWQiOiJBUFAiLCJleHAiOjE1OTY1MDQzNjgsImp0aSI6ImVQVFRUWUFIZUM1U0lFSFU0R2RJLXciLCJpYXQiOjE1OTU4OTk1NjgsIm5iZiI6MTU5NTg5OTUwOCwic3ViIjoic3ViamVjdCIsInVzZXJJZCI6IkFTREwxQjNETDAxMiIsImF1ZGllbmNlIjoiQVBQIn0.hf99xw5Z8UA_TGsNoqI5GXwtQwX3RhQDvYfOJV7inVnmD_ZO5TxpSZQlRDUq8sXMtgyOTMmdGxwEANWdXtK4j4RP9Joj50ML79jc-bhBn_vV9nOrta3mmHjUz65UTBe8-IyXLckFx169HHCscUQ2qLCt0wWI3b7syxqIMAqEbCg4pquA5onQigITckmOoGpd44dX2GgAYXqJGzGn_duoYy4H7eW5I7aAOTi1RS-hwMsZ6t29-OKpUT361tCYmQb-BfzxE-kJNNCDiq4SRBTv1tI-SOrceop8Hcv1sey8GOL6fSEzmA8Cc7O3gOKsSlimFn2DXZ__JNYr6MP_el1k8w"
+}

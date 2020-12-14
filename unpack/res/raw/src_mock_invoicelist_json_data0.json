@@ -1,0 +1,86 @@
+{
+  "tabKey": 0,
+  "invoiceCtg": "0",
+  "userId": "ASDL1B3DL012",
+  "methodName": "getInvoiceList",
+  "pageName": "InvoiceList",
+  "deviceToken": "25a82c77643f4071",
+  "userCd": "ASDL1B3DL012",
+  "USER_INFO": {
+    "accntComp": "00",
+    "compCode": "00",
+    "compName": "阿爾卑斯系統集成（大連）有限公司",
+    "deptCode": "ADSS103",
+    "deptName": "ｿﾘｭｰｼｮﾝ3課",
+    "deptNameABB": "SS1-3課",
+    "deptSetCode": "0",
+    "iconPic": "",
+    "msg": "",
+    "registerDate": "20130801",
+    "retireDate": "",
+    "userCode": "ASDL1B3DL012",
+    "userFlag": "0",
+    "userName": "王 濤"
+  },
+  "USER_RESOURCE_ITEM_LIST": [
+    {
+      "resourceCode": "appshowall_user_clear",
+      "userCode": ""
+    },
+    {
+      "resourceCode": "appshowall_user_select",
+      "userCode": ""
+    },
+    {
+      "resourceCode": "e_attend_deptSelect",
+      "userCode": ""
+    },
+    {
+      "resourceCode": "e_attnd_select_limit",
+      "userCode": ""
+    },
+    {
+      "resourceCode": "e_dept_search",
+      "userCode": ""
+    },
+    {
+      "resourceCode": "e_manager_conf",
+      "userCode": ""
+    },
+    {
+      "resourceCode": "e_user_select",
+      "userCode": ""
+    }
+  ],
+  "token": "eyJraWQiOiJrMSIsImFsZyI6IlJTMjU2In0.eyJpc3MiOiJBUFAiLCJhdWQiOiJBUFAiLCJleHAiOjE1OTY2MTI4OTksImp0aSI6IjlsUHpMRmVuYmhWb3I0RVNtYkpHbEEiLCJpYXQiOjE1OTYwMDgwOTksIm5iZiI6MTU5NjAwODAzOSwic3ViIjoic3ViamVjdCIsInVzZXJJZCI6IkFTREwxQjNETDAxMiIsImF1ZGllbmNlIjoiQVBQIn0.fwUpwnHLYeHljlLL472RFwam0pmzJ2Dlm0EMXPaoDZnU6IBkEthdL3f_o3ic5sm7envjuC3yPZNe31UtlUTTH9c_F1lr5W-J4e7l8U_ekGBj9tG9TNYuAvVbSFh3Dk8o8i4nBcuXxyVX4Mc-v5B3Ci6RRVaRn_Iax1UWvIzVFRaRWCyNeThEaI4ACcSYTZM5hwjQFum5-jBjG7-1xWGuz81dB1ZSgMOYEORe6K1eB1luCNP_k5_CMMJORZuTVWCNYkKKohAA_D-Ftc4FzcnJIHk6FkTRhu-iXfYZ1I8YE6O62jxLZzSr7Ntx_aZh6aiZBg8mJeqpuGm0t_YnWlOChQ",
+  "result": {
+    "tDetailEntities": [
+      {
+        "allpId": "ASDL1B3DL01220191230081131",
+        "costAmount": "18.20",
+        "costAmountEditFlg": "1",
+        "createTime": "2019-12-31 08:23:20",
+        "delFlg": "0",
+        "endArea": "家",
+        "endTime": "20:35",
+        "endTimeEditFlg": "1",
+        "id": "2339",
+        "invoiceCtg": "0",
+        "invoiceCtg2": "0",
+        "invoiceNum": "09507008",
+        "invoiceType": "加班",
+        "invoiceTypeFlg": "0",
+        "lockFlg": "1",
+        "paperId": "ASDL1B3DL012_2020-01-02 10:22:11",
+        "proxyUser": "无",
+        "seqNo": "0",
+        "spentDate": "20191230",
+        "spentDateEditFlg": "1",
+        "startArea": "公司",
+        "startTime": "20:21",
+        "startTimeEditFlg": "1",
+        "userId": "ASDL1B3DL012"
+      }
+    ]
+  }
+}

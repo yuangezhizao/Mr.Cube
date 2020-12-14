@@ -1,0 +1,501 @@
+{
+  "methodName": "confTotab",
+  "pageName": "ApplicantionDetail",
+  "applId": "ASDL1B9DL00620200709102137",
+  "deviceToken": "25a82c77643f4071",
+  "userCd": "ASDL1B3DL012",
+  "USER_INFO": {
+    "accntComp": "00",
+    "compCode": "00",
+    "compName": "阿爾卑斯系統集成（大連）有限公司",
+    "deptCode": "ADSS103",
+    "deptName": "ｿﾘｭｰｼｮﾝ3課",
+    "deptNameABB": "SS1-3課",
+    "deptSetCode": "0",
+    "iconPic": "https://mobile.alsi.cn/headimg/ASDL1B3DL012.jpg",
+    "msg": "",
+    "registerDate": "20130801",
+    "retireDate": "",
+    "userCode": "ASDL1B3DL012",
+    "userFlag": "0",
+    "userName": "王 濤"
+  },
+  "USER_RESOURCE_ITEM_LIST": [
+    {
+      "resourceCode": "appshowall_user_clear",
+      "userCode": ""
+    },
+    {
+      "resourceCode": "appshowall_user_select",
+      "userCode": ""
+    },
+    {
+      "resourceCode": "e_attend_deptSelect",
+      "userCode": ""
+    },
+    {
+      "resourceCode": "e_attnd_select_limit",
+      "userCode": ""
+    },
+    {
+      "resourceCode": "e_dept_search",
+      "userCode": ""
+    },
+    {
+      "resourceCode": "e_manager_conf",
+      "userCode": ""
+    },
+    {
+      "resourceCode": "e_user_select",
+      "userCode": ""
+    }
+  ],
+  "token": "eyJraWQiOiJrMSIsImFsZyI6IlJTMjU2In0.eyJpc3MiOiJBUFAiLCJhdWQiOiJBUFAiLCJleHAiOjE1OTUyMzc5ODksImp0aSI6IkdyNmlvcHR3MzdlQ3o1by1oSHRIR3ciLCJpYXQiOjE1OTQ2MzMxODksIm5iZiI6MTU5NDYzMzEyOSwic3ViIjoic3ViamVjdCIsInVzZXJJZCI6IkFTREwxQjNETDAxMiIsImF1ZGllbmNlIjoiQVBQIn0.gcCRLabsUMnpxJANF_C_8IOSiqq_v_XVgtyrXAPQSMmxO3Z2fZiK8twxNYtcz1xNG0Qc4KoQMLd0jmTStVUeqAXsE4QqNOyP0RaG1n7FFOexDOZz_9S7X32H_gkOaFaDTvMvGw-bElNUgZpNSzbJXkonVRnYmOy9JTsLOVi05aPq2-3wTpIN_rtJOxMEiYrIQBJbunDjS0Aba-Td1ZB_OEM0Oc_kJNp0JnaaPLq5OqHnUjsmIozFRdsHEBQJOF9YCkwKmu7uxp2cS44xPJhtGuU_6OU43zQUlRZs_MR87D8aDg5WqiMfBbfZx8zXXmLRfsiE_FFV5JNPy2H5x8o2GQ",
+  "result": {
+    "tab": [
+      true,
+      false,
+      false,
+      false
+    ],
+    "nowTab": "work",
+    "progressList": [
+      {
+        "code": "progress",
+        "prepareValue": "0%",
+        "printValue": "0",
+        "sortId": "00",
+        "value": "0"
+      },
+      {
+        "code": "progress",
+        "prepareValue": "10%",
+        "printValue": "10",
+        "sortId": "01",
+        "value": "10"
+      },
+      {
+        "code": "progress",
+        "prepareValue": "20%",
+        "printValue": "20",
+        "sortId": "02",
+        "value": "20"
+      },
+      {
+        "code": "progress",
+        "prepareValue": "30%",
+        "printValue": "30",
+        "sortId": "03",
+        "value": "30"
+      },
+      {
+        "code": "progress",
+        "prepareValue": "40%",
+        "printValue": "40",
+        "sortId": "04",
+        "value": "40"
+      },
+      {
+        "code": "progress",
+        "prepareValue": "50%",
+        "printValue": "50",
+        "sortId": "05",
+        "value": "50"
+      },
+      {
+        "code": "progress",
+        "prepareValue": "60%",
+        "printValue": "60",
+        "sortId": "06",
+        "value": "60"
+      },
+      {
+        "code": "progress",
+        "prepareValue": "70%",
+        "printValue": "70",
+        "sortId": "07",
+        "value": "70"
+      },
+      {
+        "code": "progress",
+        "prepareValue": "80%",
+        "printValue": "80",
+        "sortId": "08",
+        "value": "80"
+      },
+      {
+        "code": "progress",
+        "prepareValue": "90%",
+        "printValue": "90",
+        "sortId": "09",
+        "value": "90"
+      },
+      {
+        "code": "progress",
+        "prepareValue": "100%",
+        "printValue": "100",
+        "sortId": "10",
+        "value": "100"
+      }
+    ],
+    "attdCtgWorkList": [
+      {
+        "aggrTypeCode": "00A",
+        "aggrTypeIconClr": "yel",
+        "aggrTypeName": "平日",
+        "approve2OrNot": "0",
+        "attdCode": "0001",
+        "attdCtgCode": "00",
+        "attdCtgName": "残業",
+        "attdName": "平日残業",
+        "fileUrlOrNot": "0",
+        "minApplHours": "0.50000",
+        "ntrlWrkDayFlg": "1"
+      },
+      {
+        "aggrTypeCode": "00B",
+        "aggrTypeIconClr": "yel",
+        "aggrTypeName": "休日",
+        "approve2OrNot": "0",
+        "attdCode": "0002",
+        "attdCtgCode": "00",
+        "attdCtgName": "残業",
+        "attdName": "休日残業",
+        "fileUrlOrNot": "0",
+        "minApplHours": "0.50000",
+        "ntrlWrkDayFlg": "0"
+      },
+      {
+        "aggrTypeCode": "00C",
+        "aggrTypeIconClr": "yel",
+        "aggrTypeName": "祝日",
+        "approve2OrNot": "0",
+        "attdCode": "0003",
+        "attdCtgCode": "00",
+        "attdCtgName": "残業",
+        "attdName": "祝日残業",
+        "fileUrlOrNot": "0",
+        "minApplHours": "0.50000",
+        "ntrlWrkDayFlg": "0"
+      },
+      {
+        "aggrTypeCode": "00A",
+        "aggrTypeIconClr": "yel",
+        "aggrTypeName": "平日",
+        "approve2OrNot": "0",
+        "attdCode": "0004",
+        "attdCtgCode": "00",
+        "attdCtgName": "残業",
+        "attdName": "平日残業(出張)",
+        "fileUrlOrNot": "0",
+        "minApplHours": "0.50000",
+        "ntrlWrkDayFlg": "1"
+      },
+      {
+        "aggrTypeCode": "00B",
+        "aggrTypeIconClr": "yel",
+        "aggrTypeName": "休日",
+        "approve2OrNot": "0",
+        "attdCode": "0005",
+        "attdCtgCode": "00",
+        "attdCtgName": "残業",
+        "attdName": "休日残業(出張)",
+        "fileUrlOrNot": "0",
+        "minApplHours": "0.50000",
+        "ntrlWrkDayFlg": "0"
+      },
+      {
+        "aggrTypeCode": "00C",
+        "aggrTypeIconClr": "yel",
+        "aggrTypeName": "祝日",
+        "approve2OrNot": "0",
+        "attdCode": "0006",
+        "attdCtgCode": "00",
+        "attdCtgName": "残業",
+        "attdName": "祝日残業(出張)",
+        "fileUrlOrNot": "0",
+        "minApplHours": "0.50000",
+        "ntrlWrkDayFlg": "0"
+      },
+      {
+        "aggrTypeCode": "00D",
+        "aggrTypeIconClr": "yel",
+        "aggrTypeName": "代休用",
+        "approve2OrNot": "0",
+        "attdCode": "0007",
+        "attdCtgCode": "00",
+        "attdCtgName": "残業",
+        "attdName": "(代)休日残業",
+        "fileUrlOrNot": "0",
+        "minApplHours": "0.50000",
+        "ntrlWrkDayFlg": "0"
+      },
+      {
+        "aggrTypeCode": "00D",
+        "aggrTypeIconClr": "yel",
+        "aggrTypeName": "代休用",
+        "approve2OrNot": "0",
+        "attdCode": "0008",
+        "attdCtgCode": "00",
+        "attdCtgName": "残業",
+        "attdName": "(代)祝日残業",
+        "fileUrlOrNot": "0",
+        "minApplHours": "0.50000",
+        "ntrlWrkDayFlg": "0"
+      },
+      {
+        "aggrTypeCode": "00D",
+        "aggrTypeIconClr": "yel",
+        "aggrTypeName": "代休用",
+        "approve2OrNot": "0",
+        "attdCode": "0009",
+        "attdCtgCode": "00",
+        "attdCtgName": "残業",
+        "attdName": "(代)休日残業(出張)",
+        "fileUrlOrNot": "0",
+        "minApplHours": "0.50000",
+        "ntrlWrkDayFlg": "0"
+      },
+      {
+        "aggrTypeCode": "00D",
+        "aggrTypeIconClr": "yel",
+        "aggrTypeName": "代休用",
+        "approve2OrNot": "0",
+        "attdCode": "0010",
+        "attdCtgCode": "00",
+        "attdCtgName": "残業",
+        "attdName": "(代)祝日残業(出張)",
+        "fileUrlOrNot": "0",
+        "minApplHours": "0.50000",
+        "ntrlWrkDayFlg": "0"
+      },
+      {
+        "aggrTypeCode": "00A",
+        "aggrTypeIconClr": "yel",
+        "aggrTypeName": "平日",
+        "approve2OrNot": "0",
+        "attdCode": "0011",
+        "attdCtgCode": "00",
+        "attdCtgName": "残業",
+        "attdName": "平日残業(在宅)",
+        "fileUrlOrNot": "0",
+        "minApplHours": "0.50000",
+        "ntrlWrkDayFlg": "1"
+      },
+      {
+        "aggrTypeCode": "00B",
+        "aggrTypeIconClr": "yel",
+        "aggrTypeName": "休日",
+        "approve2OrNot": "0",
+        "attdCode": "0012",
+        "attdCtgCode": "00",
+        "attdCtgName": "残業",
+        "attdName": "休日残業(在宅)",
+        "fileUrlOrNot": "0",
+        "minApplHours": "0.50000",
+        "ntrlWrkDayFlg": "0"
+      },
+      {
+        "aggrTypeCode": "00C",
+        "aggrTypeIconClr": "yel",
+        "aggrTypeName": "祝日",
+        "approve2OrNot": "0",
+        "attdCode": "0013",
+        "attdCtgCode": "00",
+        "attdCtgName": "残業",
+        "attdName": "祝日残業(在宅)",
+        "fileUrlOrNot": "0",
+        "minApplHours": "0.50000",
+        "ntrlWrkDayFlg": "0"
+      },
+      {
+        "aggrTypeCode": "00D",
+        "aggrTypeIconClr": "yel",
+        "aggrTypeName": "代休用",
+        "approve2OrNot": "0",
+        "attdCode": "0014",
+        "attdCtgCode": "00",
+        "attdCtgName": "残業",
+        "attdName": "(代)休日残業(在宅)",
+        "fileUrlOrNot": "0",
+        "minApplHours": "0.50000",
+        "ntrlWrkDayFlg": "0"
+      },
+      {
+        "aggrTypeCode": "00D",
+        "aggrTypeIconClr": "yel",
+        "aggrTypeName": "代休用",
+        "approve2OrNot": "0",
+        "attdCode": "0015",
+        "attdCtgCode": "00",
+        "attdCtgName": "残業",
+        "attdName": "(代)祝日残業(在宅)",
+        "fileUrlOrNot": "0",
+        "minApplHours": "0.50000",
+        "ntrlWrkDayFlg": "0"
+      }
+    ],
+    "model": {},
+    "juFou": [
+      {
+        "excTime": "2020-07-09 16:56:02",
+        "remark": "一样一样",
+        "userName": "王 濤"
+      },
+      {
+        "excTime": "2020-07-09 16:52:40",
+        "remark": "热热热热热",
+        "userName": "王 濤"
+      },
+      {
+        "excTime": "2020-07-09 16:51:22",
+        "remark": "我我我我我",
+        "userName": "王 濤"
+      },
+      {
+        "excTime": "2020-07-09 16:48:36",
+        "remark": "22144",
+        "userName": "王 濤"
+      },
+      {
+        "excTime": "2020-07-09 16:46:25",
+        "remark": "566666",
+        "userName": "王 濤"
+      },
+      {
+        "excTime": "2020-07-09 16:42:56",
+        "remark": "66666",
+        "userName": "王 濤"
+      },
+      {
+        "excTime": "2020-07-09 15:42:20",
+        "remark": "324324324324",
+        "userName": "王 濤"
+      },
+      {
+        "excTime": "2020-07-09 15:14:18",
+        "remark": "3214331",
+        "userName": "王 濤"
+      },
+      {
+        "excTime": "2020-07-09 15:12:07",
+        "remark": "rewrew",
+        "userName": "王 濤"
+      },
+      {
+        "excTime": "2020-07-09 15:04:28",
+        "remark": "9999",
+        "userName": "王 濤"
+      },
+      {
+        "excTime": "2020-07-09 15:00:00",
+        "remark": "1238888",
+        "userName": "王 濤"
+      },
+      {
+        "excTime": "2020-07-09 14:55:24",
+        "remark": "打回",
+        "userName": "王 濤"
+      },
+      {
+        "excTime": "2020-07-09 14:53:38",
+        "remark": "66666",
+        "userName": "王 濤"
+      },
+      {
+        "excTime": "2020-07-09 13:32:03",
+        "remark": "66666",
+        "userName": "王 濤"
+      },
+      {
+        "excTime": "2020-07-09 13:30:52",
+        "remark": "66666",
+        "userName": "王 濤"
+      },
+      {
+        "excTime": "2020-07-09 13:25:54",
+        "remark": "66666",
+        "userName": "王 濤"
+      },
+      {
+        "excTime": "2020-07-09 13:22:49",
+        "remark": "666666",
+        "userName": "王 濤"
+      },
+      {
+        "excTime": "2020-07-09 13:18:56",
+        "remark": "556666",
+        "userName": "王 濤"
+      },
+      {
+        "excTime": "2020-07-09 13:07:22",
+        "remark": "123456",
+        "userName": "王 濤"
+      }
+    ],
+    "entity": {
+      "admitCode": "4",
+      "admitUserCode": "ASDL1B3DL012",
+      "admitUserName": "王 濤",
+      "agencyFlgMap": {},
+      "applId": "ASDL1B9DL00620200709102137",
+      "applStatus": "2",
+      "applStatusName": "承認済み",
+      "applicationTabsDetailEntity": [
+        {
+          "admit": "1",
+          "agencyFlg": [
+            "0"
+          ],
+          "bizTripApplFlag": "0",
+          "bizTripFlag": "0",
+          "changeFrom": "",
+          "changeTo": "",
+          "date": "2020/07/09(木)",
+          "deduct": "0.5H",
+          "distinguishClass": "actual",
+          "distinguishCode": "1",
+          "distinguishName": "実",
+          "from": "17:30",
+          "holidayFlag": "",
+          "progress": "100",
+          "realDeduct": "0.5",
+          "realTotal": "3.0",
+          "seqNo": "1",
+          "shiftHolidayFlag": "0",
+          "technicianFlg": "0",
+          "to": "21:00",
+          "total": "3H",
+          "typeCode": "0001",
+          "typeName": "平日残業",
+          "userCode": "ASDL1B9DL006",
+          "userName": "李 陽",
+          "workHomeFlag": "0"
+        }
+      ],
+      "attdCode": "0201",
+      "beginTime": "08:30",
+      "btnShowFlg": "0",
+      "ccUserCode": "",
+      "ccUserName": "",
+      "confirmFlg": "0",
+      "deptCode": "ADSS103",
+      "deptConfUserCode": "ASDL1B3DL012",
+      "deptConfUserName": "王 濤",
+      "deptName": "ｿﾘｭｰｼｮﾝ3課",
+      "fileAdmitCode": "0",
+      "fileMap": {},
+      "noonBegin": "12:10",
+      "noonOver": "13:10",
+      "overTime": "17:30",
+      "processId": "732501",
+      "projCode": "SSGY20G016",
+      "projName": "戦略投資DX-携帯基盤",
+      "reasonForAppl": "开包",
+      "userCode": "ASDL1B3DL012",
+      "userMap": {
+        "ASDL1B9DL006": "李 陽"
+      }
+    }
+  }
+}

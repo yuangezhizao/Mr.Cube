@@ -1,0 +1,1206 @@
+{
+  "userCd": "ASDL1B3DL012",
+  "USER_INFO": {
+    "accntComp": "00",
+    "compCode": "00",
+    "compName": "阿爾卑斯系統集成（大連）有限公司",
+    "deptCode": "ADSS103",
+    "deptName": "ｿﾘｭｰｼｮﾝ3課",
+    "deptNameABB": "SS1-3課",
+    "deptSetCode": "0",
+    "msg": "",
+    "registerDate": "20130801",
+    "retireDate": "",
+    "userCode": "ASDL1B3DL012",
+    "userFlag": "0",
+    "userName": "王 濤"
+  },
+  "methodName": "view_init",
+  "tabKey": 0,
+  "token": "eyJraWQiOiJrMSIsImFsZyI6IlJTMjU2In0.eyJpc3MiOiJBUFAiLCJhdWQiOiJBUFAiLCJleHAiOjE1OTMxNDkwNzYsImp0aSI6IlJSMEJrNXFpcTBuWHZhTjBmUXl4QVEiLCJpYXQiOjE1OTI1NDQyNzYsIm5iZiI6MTU5MjU0NDIxNiwic3ViIjoic3ViamVjdCIsInVzZXJJZCI6IkFTREwxQjNETDAxMiIsImF1ZGllbmNlIjoiQVBQIn0.TYCNLc3aYbYx8RY9KD9gW8A4o6yFcpJcE_3ElxPTx6U3vMhttEl6kzW-zNW8IUOcn8lUitGFKXom_jGXCcdD1wy7drUYXQW8TPnnZefN7vx5lAToHlcwGuC5ms2OV50mjH6zmdPBUAASmYGGozAiEqV_OslXlurH5if7iB_U3s24KdTUsoquaafJ5Ql8CA-YOikMjZQXH60ubZtr1Yxxk0eNj6BlgEMyRZ0AbOzQsKxSrIWT-t-OK8ITr_wVMqeddq0saIsfHHjX3zkawvyHuL-rQrlgVXNOfMoez6lPd3BymXgG0FgO3anbVds-1G4XB3vxNMml6J6k-rPzzjtv5w",
+  "result": {
+    "otherUserName": "",
+    "model": {
+      "list_business": [
+        {
+          "address": "ewq",
+          "applForUserCode": "ASDL1B9DL006",
+          "applId": "ASDL1B9DL00620200615125146",
+          "applStatus": "1",
+          "applUserName": "李 陽",
+          "attdIconChr": "宅",
+          "beforeAfterFlag": "0",
+          "confFlag": "1",
+          "list": [
+            {
+              "agencyFlg": "0",
+              "applForDate": "2020/06/15",
+              "applForUserCode": "ASDL1B9DL006",
+              "dateWeek": "(月)",
+              "detailMessage": "2020/06/15(月) 08:30-17:30",
+              "fixedTermFlg": "0",
+              "fromTime": "08:30",
+              "groupNo": "0",
+              "hoursOfDur": "8H",
+              "toTime": "17:30",
+              "userName": "李 陽"
+            }
+          ],
+          "processId": "682792",
+          "projName": "戦略投資DX-携帯基盤",
+          "reason": "ewq",
+          "taskId": "682859",
+          "typeColor": "blu"
+        },
+        {
+          "address": "ALDL",
+          "applForUserCode": "ASDL1B6DL037",
+          "applId": "ASDL1A5DL06420200602145737",
+          "applStatus": "1",
+          "applUserName": "梁 冰",
+          "attdIconChr": "外",
+          "beforeAfterFlag": "0",
+          "confFlag": "1",
+          "list": [
+            {
+              "agencyFlg": "1",
+              "applForDate": "2020/06/03",
+              "applForUserCode": "ASDL1B6DL037",
+              "dateWeek": "(水)",
+              "detailMessage": "2020/06/03(水) 11:00-17:30",
+              "fixedTermFlg": "0",
+              "fromTime": "11:00",
+              "groupNo": "0",
+              "hoursOfDur": "5.5H",
+              "toTime": "17:30",
+              "userName": "董 詩文"
+            },
+            {
+              "agencyFlg": "0",
+              "applForDate": "2020/06/03",
+              "applForUserCode": "ASDL1A5DL064",
+              "dateWeek": "(水)",
+              "detailMessage": "2020/06/03(水) 11:00-17:30",
+              "fixedTermFlg": "0",
+              "fromTime": "11:00",
+              "groupNo": "1",
+              "hoursOfDur": "5.5H",
+              "toTime": "17:30",
+              "userName": "梁 冰"
+            }
+          ],
+          "processId": "672832",
+          "projName": "【本体前】ALDL-物流搬送",
+          "reason": "组立系统物流搬运管理要件说明",
+          "taskId": "672848",
+          "typeColor": "blu"
+        }
+      ],
+      "list_otConf": [
+        {
+          "applForUserCode": "ASDL3DL00316",
+          "applId": "ASDL3DL0031620200602171326",
+          "applUserName": "徐 少升",
+          "beforeAfterFlag": "0",
+          "confFlag": "1",
+          "list": [
+            {
+              "agencyFlg": "0",
+              "applForDate": "2020/06/02",
+              "attdIconChr": "平",
+              "baFlag": "0",
+              "dateWeek": "(火)",
+              "fromTime": "22:30",
+              "hoursOfDur": "23.5H",
+              "leftCircle": "0",
+              "progPerct": "0",
+              "rightCircle": "0",
+              "rowPercent": "36",
+              "timeLongPx": "yellow",
+              "toTime": "22:00",
+              "typeColor": "yel",
+              "userName": "徐 少升"
+            },
+            {
+              "agencyFlg": "0",
+              "applForDate": "2020/06/02",
+              "attdIconChr": "平",
+              "baFlag": "1",
+              "dateWeek": "(火)",
+              "fromTime": "17:30",
+              "hoursOfDur": "3H",
+              "leftCircle": "180",
+              "progPerct": "100",
+              "rightCircle": "180",
+              "rowPercent": "36",
+              "timeLongPx": "blue",
+              "toTime": "21:00",
+              "typeColor": "yel",
+              "userName": "徐 少升"
+            },
+            {
+              "agencyFlg": "0",
+              "applForDate": "2020/06/03",
+              "attdIconChr": "休",
+              "baFlag": "0",
+              "dateWeek": "(火)",
+              "fromTime": "17:30",
+              "hoursOfDur": "3H",
+              "leftCircle": "0",
+              "progPerct": "0",
+              "rightCircle": "0",
+              "rowPercent": "36",
+              "timeLongPx": "yellow",
+              "toTime": "21:00",
+              "typeColor": "yel",
+              "userName": "徐 少升"
+            },
+            {
+              "agencyFlg": "0",
+              "applForDate": "2020/06/03",
+              "attdIconChr": "休",
+              "baFlag": "1",
+              "dateWeek": "(火)",
+              "fromTime": "17:30",
+              "hoursOfDur": "3H",
+              "leftCircle": "180",
+              "progPerct": "100",
+              "rightCircle": "180",
+              "rowPercent": "36",
+              "timeLongPx": "blue",
+              "toTime": "21:00",
+              "typeColor": "yel",
+              "userName": "徐 少升"
+            },
+            {
+              "agencyFlg": "0",
+              "applForDate": "2020/06/03",
+              "attdIconChr": "祝",
+              "baFlag": "0",
+              "dateWeek": "(火)",
+              "fromTime": "17:30",
+              "hoursOfDur": "3H",
+              "leftCircle": "0",
+              "progPerct": "0",
+              "rightCircle": "0",
+              "rowPercent": "36",
+              "timeLongPx": "yellow",
+              "toTime": "21:00",
+              "typeColor": "yel",
+              "userName": "景 源"
+            },
+            {
+              "agencyFlg": "0",
+              "applForDate": "2020/06/03",
+              "attdIconChr": "祝",
+              "baFlag": "1",
+              "dateWeek": "(火)",
+              "fromTime": "17:30",
+              "hoursOfDur": "3H",
+              "leftCircle": "180",
+              "progPerct": "100",
+              "rightCircle": "180",
+              "rowPercent": "36",
+              "timeLongPx": "blue",
+              "toTime": "21:00",
+              "typeColor": "yel",
+              "userName": "景 源"
+            }
+          ],
+          "processId": "673022",
+          "projName": "国内IM-UCCPのStep3開発",
+          "reason": "残业原因:pcl进度挽回\n残业内容:PCL测试sytk0029，计划完成50%\n实际完成50%",
+          "statusValue": "処理中",
+          "taskId": "673260"
+        },
+        {
+          "applForUserCode": "ASDL1C0DL008",
+          "applId": "ASDL1C0DL00820200602170912",
+          "applUserName": "高 毓馳 ",
+          "beforeAfterFlag": "0",
+          "confFlag": "1",
+          "list": [
+            {
+              "agencyFlg": "0",
+              "applForDate": "2020/06/02",
+              "attdIconChr": "平",
+              "baFlag": "0",
+              "dateWeek": "(火)",
+              "fromTime": "17:30",
+              "hoursOfDur": "3.5H",
+              "leftCircle": "0",
+              "progPerct": "0",
+              "rightCircle": "0",
+              "rowPercent": "42",
+              "timeLongPx": "yellow",
+              "toTime": "21:00",
+              "typeColor": "yel",
+              "userName": "高 毓馳 "
+            },
+            {
+              "agencyFlg": "0",
+              "applForDate": "2020/06/02",
+              "attdIconChr": "平",
+              "baFlag": "1",
+              "dateWeek": "(火)",
+              "fromTime": "17:30",
+              "hoursOfDur": "4H",
+              "leftCircle": "180",
+              "progPerct": "100",
+              "rightCircle": "180",
+              "rowPercent": "48",
+              "timeLongPx": "blue",
+              "toTime": "21:30",
+              "typeColor": "yel",
+              "userName": "高 毓馳 "
+            }
+          ],
+          "processId": "672971",
+          "projName": "国内IM-UCCPのStep3開発",
+          "reason": "残業原因：UCCP 单体测试实施\n残業内容：BU变更SYTK0003修改   完成度予定：100％   实际完成度 50%",
+          "statusValue": "処理中",
+          "taskId": "673296"
+        },
+        {
+          "applForUserCode": "ASDL3DL00349",
+          "applId": "ASDL3DL0034920200602170804",
+          "applUserName": "王 昊",
+          "beforeAfterFlag": "0",
+          "confFlag": "1",
+          "list": [
+            {
+              "agencyFlg": "0",
+              "applForDate": "2020/06/02",
+              "attdIconChr": "平",
+              "baFlag": "0",
+              "dateWeek": "(火)",
+              "fromTime": "17:30",
+              "hoursOfDur": "4H",
+              "leftCircle": "0",
+              "progPerct": "0",
+              "rightCircle": "0",
+              "rowPercent": "48",
+              "timeLongPx": "yellow",
+              "toTime": "21:30",
+              "typeColor": "yel",
+              "userName": "王 昊"
+            },
+            {
+              "agencyFlg": "0",
+              "applForDate": "2020/06/02",
+              "attdIconChr": "平",
+              "baFlag": "1",
+              "dateWeek": "(火)",
+              "fromTime": "17:30",
+              "hoursOfDur": "4H",
+              "leftCircle": "180",
+              "progPerct": "100",
+              "rightCircle": "180",
+              "rowPercent": "48",
+              "timeLongPx": "blue",
+              "toTime": "21:30",
+              "typeColor": "yel",
+              "userName": "王 昊"
+            }
+          ],
+          "processId": "672949",
+          "projName": "国内IM-UCCPのStep3開発",
+          "reason": "残業原因：UCCPStep3PCL测试进度挽回\n残業内容1：Sytk0021PCL测试   完成度予定：30％ \n残業内容1：Sytk0021PCL测试   实际完成度：30％ ",
+          "statusValue": "処理中",
+          "taskId": "673449"
+        },
+        {
+          "applForUserCode": "ASDL1B7DL011",
+          "applId": "ASDL1B7DL01120200602170753",
+          "applUserName": "王 懐猛",
+          "beforeAfterFlag": "0",
+          "confFlag": "1",
+          "list": [
+            {
+              "agencyFlg": "0",
+              "applForDate": "2020/06/02",
+              "attdIconChr": "平",
+              "baFlag": "0",
+              "dateWeek": "(火)",
+              "fromTime": "17:30",
+              "hoursOfDur": "4H",
+              "leftCircle": "0",
+              "progPerct": "0",
+              "rightCircle": "0",
+              "rowPercent": "48",
+              "timeLongPx": "yellow",
+              "toTime": "21:30",
+              "typeColor": "yel",
+              "userName": "王 懐猛"
+            },
+            {
+              "agencyFlg": "0",
+              "applForDate": "2020/06/02",
+              "attdIconChr": "平",
+              "baFlag": "1",
+              "dateWeek": "(火)",
+              "fromTime": "17:30",
+              "hoursOfDur": "5H",
+              "leftCircle": "180",
+              "progPerct": "100",
+              "rightCircle": "180",
+              "rowPercent": "60",
+              "timeLongPx": "blue",
+              "toTime": "22:30",
+              "typeColor": "yel",
+              "userName": "王 懐猛"
+            }
+          ],
+          "processId": "672927",
+          "projName": "国内IM-UCCPのStep3開発",
+          "reason": "残業原因：UCCP单体测试进度挽回\n残業内容1： SYTK0084，SYTK0002，BUG修正后单体测试再实施  完成度予定：100％ 实际完成度：100%",
+          "statusValue": "処理中",
+          "taskId": "673267"
+        },
+        {
+          "applForUserCode": "ASDL3DL00316",
+          "applId": "ASDL3DL0031620200601165747",
+          "applUserName": "徐 少升",
+          "beforeAfterFlag": "0",
+          "confFlag": "1",
+          "list": [
+            {
+              "agencyFlg": "0",
+              "applForDate": "2020/06/01",
+              "attdIconChr": "平",
+              "baFlag": "0",
+              "dateWeek": "(月)",
+              "fromTime": "17:30",
+              "hoursOfDur": "3H",
+              "leftCircle": "0",
+              "progPerct": "0",
+              "rightCircle": "0",
+              "rowPercent": "36",
+              "timeLongPx": "yellow",
+              "toTime": "21:00",
+              "typeColor": "yel",
+              "userName": "徐 少升"
+            },
+            {
+              "agencyFlg": "0",
+              "applForDate": "2020/06/01",
+              "attdIconChr": "平",
+              "baFlag": "1",
+              "dateWeek": "(月)",
+              "fromTime": "17:30",
+              "hoursOfDur": "3H",
+              "leftCircle": "180",
+              "progPerct": "100",
+              "rightCircle": "180",
+              "rowPercent": "36",
+              "timeLongPx": "blue",
+              "toTime": "21:00",
+              "typeColor": "yel",
+              "userName": "徐 少升"
+            }
+          ],
+          "processId": "671732",
+          "projName": "国内IM-UCCPのStep3開発",
+          "reason": "残业原因:pcl进度挽回\n残业内容:PCL测试sytk0114，计划完成100%\n实际完成:sytk0114 完成100%",
+          "statusValue": "処理中",
+          "taskId": "673019"
+        }
+      ],
+      "list_overTime": [
+        {
+          "applForUserCode": "ASDL1B9DL006",
+          "applId": "ASDL1B9DL00620200618132640",
+          "applUserName": "李 陽",
+          "beforeAfterFlag": "0",
+          "confFlag": "1",
+          "list": [
+            {
+              "agencyFlg": "0",
+              "applForDate": "2020/06/18",
+              "attdIconChr": "休",
+              "baFlag": "0",
+              "dateWeek": "(木)",
+              "fromTime": "17:30",
+              "hoursOfDur": "3.5H",
+              "leftCircle": "0",
+              "progPerct": "0",
+              "rightCircle": "0",
+              "rowPercent": "42",
+              "timeLongPx": "yellow",
+              "toTime": "21:30",
+              "typeColor": "yel",
+              "userName": "李 陽"
+            }
+          ],
+          "processId": "705059",
+          "projName": "戦略投資DX-携帯基盤",
+          "reason": "321",
+          "statusValue": "処理中",
+          "taskId": "705163"
+        },
+        {
+          "applForUserCode": "ASDL3DL00287",
+          "applId": "ASDL3DL0028720200618092210",
+          "applUserName": "景 源",
+          "beforeAfterFlag": "1",
+          "confFlag": "1",
+          "list": [
+            {
+              "agencyFlg": "0",
+              "applForDate": "2020/06/17",
+              "attdIconChr": "平",
+              "baFlag": "1",
+              "dateWeek": "(水)",
+              "fromTime": "17:30",
+              "hoursOfDur": "3.5H",
+              "leftCircle": "180",
+              "progPerct": "100",
+              "rightCircle": "180",
+              "rowPercent": "42",
+              "timeLongPx": "blue",
+              "toTime": "21:30",
+              "typeColor": "yel",
+              "userName": "景 源"
+            },
+            {
+              "agencyFlg": "0",
+              "applForDate": "2020/06/18",
+              "attdIconChr": "休",
+              "baFlag": "1",
+              "dateWeek": "(水)",
+              "fromTime": "08:30",
+              "hoursOfDur": "8H",
+              "leftCircle": "180",
+              "progPerct": "100",
+              "rightCircle": "180",
+              "rowPercent": "42",
+              "timeLongPx": "blue",
+              "toTime": "17:30",
+              "typeColor": "yel",
+              "userName": "景 源"
+            },
+            {
+              "agencyFlg": "0",
+              "applForDate": "2020/06/18",
+              "attdIconChr": "休",
+              "baFlag": "1",
+              "dateWeek": "(水)",
+              "fromTime": "08:30",
+              "hoursOfDur": "8H",
+              "leftCircle": "180",
+              "progPerct": "100",
+              "rightCircle": "180",
+              "rowPercent": "42",
+              "timeLongPx": "blue",
+              "toTime": "17:30",
+              "typeColor": "yel",
+              "userName": "景 源"
+            },
+            {
+              "agencyFlg": "0",
+              "applForDate": "2020/06/17",
+              "attdIconChr": "平",
+              "baFlag": "1",
+              "dateWeek": "(水)",
+              "fromTime": "17:30",
+              "hoursOfDur": "3.5H",
+              "leftCircle": "180",
+              "progPerct": "100",
+              "rightCircle": "180",
+              "rowPercent": "42",
+              "timeLongPx": "blue",
+              "toTime": "21:30",
+              "typeColor": "yel",
+              "userName": "李 陽"
+            },
+            {
+              "agencyFlg": "0",
+              "applForDate": "2020/06/17",
+              "attdIconChr": "平",
+              "baFlag": "1",
+              "dateWeek": "(水)",
+              "fromTime": "17:30",
+              "hoursOfDur": "3.5H",
+              "leftCircle": "180",
+              "progPerct": "100",
+              "rightCircle": "180",
+              "rowPercent": "42",
+              "timeLongPx": "blue",
+              "toTime": "21:30",
+              "typeColor": "yel",
+              "userName": "王 明鑫"
+            }
+          ],
+          "processId": "705001",
+          "projName": "戦略投資DX-携帯基盤",
+          "reason": "残業原因：UCCP 单体测试实施\n残業内容：BU变更SYTK0003修改   完成度予定：100％   实际完成度 50%",
+          "statusValue": "処理中",
+          "taskId": "705057"
+        },
+        {
+          "applForUserCode": "ASDL3DL00287",
+          "applId": "ASDL3DL0028720200618091318",
+          "applUserName": "景 源",
+          "beforeAfterFlag": "0",
+          "confFlag": "1",
+          "list": [
+            {
+              "agencyFlg": "0",
+              "applForDate": "2020/06/18",
+              "attdIconChr": "休",
+              "baFlag": "0",
+              "dateWeek": "(木)",
+              "fromTime": "17:30",
+              "hoursOfDur": "3.5H",
+              "leftCircle": "0",
+              "progPerct": "0",
+              "rightCircle": "0",
+              "rowPercent": "42",
+              "timeLongPx": "yellow",
+              "toTime": "21:30",
+              "typeColor": "yel",
+              "userName": "景 源"
+            }
+          ],
+          "processId": "702501",
+          "projName": "戦略投資DX-携帯基盤",
+          "reason": "daa",
+          "statusValue": "処理中",
+          "taskId": "702520"
+        },
+        {
+          "applForUserCode": "ASDL1B9DL006",
+          "applId": "ASDL1B9DL00620200617202152",
+          "applUserName": "李 陽",
+          "beforeAfterFlag": "1",
+          "confFlag": "1",
+          "list": [
+            {
+              "agencyFlg": "0",
+              "applForDate": "2020/06/10",
+              "attdIconChr": "平",
+              "baFlag": "1",
+              "dateWeek": "(水)",
+              "fromTime": "17:30",
+              "hoursOfDur": "3.5H",
+              "leftCircle": "180",
+              "progPerct": "100",
+              "rightCircle": "180",
+              "rowPercent": "42",
+              "timeLongPx": "blue",
+              "toTime": "21:30",
+              "typeColor": "yel",
+              "userName": "李 陽"
+            }
+          ],
+          "processId": "697501",
+          "projName": "戦略投資DX-携帯基盤",
+          "reason": "dsadsa",
+          "statusValue": "処理中",
+          "taskId": "700019"
+        },
+        {
+          "applForUserCode": "ASDL1B9DL006",
+          "applId": "ASDL1B9DL00620200617200952",
+          "applUserName": "李 陽",
+          "beforeAfterFlag": "1",
+          "confFlag": "1",
+          "list": [
+            {
+              "agencyFlg": "0",
+              "applForDate": "2020/06/09",
+              "attdIconChr": "平",
+              "baFlag": "1",
+              "dateWeek": "(火)",
+              "fromTime": "17:30",
+              "hoursOfDur": "3.5H",
+              "leftCircle": "180",
+              "progPerct": "100",
+              "rightCircle": "180",
+              "rowPercent": "42",
+              "timeLongPx": "blue",
+              "toTime": "21:30",
+              "typeColor": "yel",
+              "userName": "李 陽"
+            }
+          ],
+          "processId": "695001",
+          "projName": "戦略投資DX-携帯基盤",
+          "reason": "dsa",
+          "statusValue": "処理中",
+          "taskId": "695093"
+        },
+        {
+          "applForUserCode": "ASDL1B9DL006",
+          "applId": "ASDL1B9DL00620200617195812",
+          "applUserName": "李 陽",
+          "beforeAfterFlag": "1",
+          "confFlag": "1",
+          "list": [
+            {
+              "agencyFlg": "0",
+              "applForDate": "2020/06/02",
+              "attdIconChr": "平",
+              "baFlag": "1",
+              "dateWeek": "(火)",
+              "fromTime": "17:30",
+              "hoursOfDur": "3.5H",
+              "leftCircle": "180",
+              "progPerct": "100",
+              "rightCircle": "180",
+              "rowPercent": "42",
+              "timeLongPx": "blue",
+              "toTime": "21:30",
+              "typeColor": "yel",
+              "userName": "李 陽"
+            }
+          ],
+          "processId": "692501",
+          "projName": "戦略投資DX-携帯基盤",
+          "reason": "dsa",
+          "statusValue": "処理中",
+          "taskId": "692533"
+        },
+        {
+          "applForUserCode": "ASDL1B9DL006",
+          "applId": "ASDL1B9DL00620200617192848",
+          "applUserName": "李 陽",
+          "beforeAfterFlag": "1",
+          "confFlag": "1",
+          "list": [
+            {
+              "agencyFlg": "0",
+              "applForDate": "2020/06/05",
+              "attdIconChr": "平",
+              "baFlag": "1",
+              "dateWeek": "(金)",
+              "fromTime": "17:30",
+              "hoursOfDur": "3.5H",
+              "leftCircle": "180",
+              "progPerct": "100",
+              "rightCircle": "180",
+              "rowPercent": "42",
+              "timeLongPx": "blue",
+              "toTime": "21:30",
+              "typeColor": "yel",
+              "userName": "李 陽"
+            }
+          ],
+          "processId": "690001",
+          "projName": "戦略投資DX-携帯基盤",
+          "reason": "dsa",
+          "statusValue": "処理中",
+          "taskId": "690045"
+        },
+        {
+          "applForUserCode": "ASDL1B9DL006",
+          "applId": "ASDL1B9DL00620200617190741",
+          "applUserName": "李 陽",
+          "beforeAfterFlag": "1",
+          "confFlag": "1",
+          "list": [
+            {
+              "agencyFlg": "0",
+              "applForDate": "2020/06/16",
+              "attdIconChr": "平",
+              "baFlag": "1",
+              "dateWeek": "(火)",
+              "fromTime": "17:30",
+              "hoursOfDur": "3.5H",
+              "leftCircle": "180",
+              "progPerct": "100",
+              "rightCircle": "180",
+              "rowPercent": "42",
+              "timeLongPx": "blue",
+              "toTime": "21:30",
+              "typeColor": "yel",
+              "userName": "李 陽"
+            }
+          ],
+          "processId": "687501",
+          "projName": "戦略投資DX-携帯基盤",
+          "reason": "dsa",
+          "statusValue": "処理中",
+          "taskId": "687533"
+        },
+        {
+          "applForUserCode": "ASDL1B9DL006",
+          "applId": "ASDL1B9DL00620200617183106",
+          "applUserName": "李 陽",
+          "beforeAfterFlag": "0",
+          "confFlag": "1",
+          "list": [
+            {
+              "agencyFlg": "0",
+              "applForDate": "2020/06/17",
+              "attdIconChr": "平",
+              "baFlag": "1",
+              "dateWeek": "(水)",
+              "fromTime": "17:30",
+              "hoursOfDur": "3.5H",
+              "leftCircle": "180",
+              "progPerct": "100",
+              "rightCircle": "180",
+              "rowPercent": "42",
+              "timeLongPx": "blue",
+              "toTime": "21:30",
+              "typeColor": "yel",
+              "userName": "李 陽"
+            }
+          ],
+          "processId": "685001",
+          "projName": "戦略投資DX-携帯基盤",
+          "reason": "dsa",
+          "statusValue": "処理中",
+          "taskId": "685029"
+        },
+        {
+          "applForUserCode": "ASDL1B9DL006",
+          "applId": "ASDL1B9DL00620200615105530",
+          "applUserName": "李 陽",
+          "beforeAfterFlag": "0",
+          "confFlag": "1",
+          "list": [
+            {
+              "agencyFlg": "0",
+              "applForDate": "2020/06/15",
+              "attdIconChr": "平",
+              "baFlag": "0",
+              "dateWeek": "(月)",
+              "fromTime": "17:30",
+              "hoursOfDur": "4H",
+              "leftCircle": "0",
+              "progPerct": "0",
+              "rightCircle": "0",
+              "rowPercent": "48",
+              "timeLongPx": "yellow",
+              "toTime": "21:30",
+              "typeColor": "yel",
+              "userName": "李 陽"
+            }
+          ],
+          "processId": "682751",
+          "projName": "戦略投資DX-携帯基盤",
+          "reason": "321",
+          "statusValue": "処理中",
+          "taskId": "682770"
+        },
+        {
+          "applForUserCode": "ASDL3DL00427",
+          "applId": "ASDL3DL0042720200603082645",
+          "applUserName": "冉 佳佳",
+          "beforeAfterFlag": "1",
+          "confFlag": "1",
+          "list": [
+            {
+              "agencyFlg": "0",
+              "applForDate": "2020/06/02",
+              "attdIconChr": "平",
+              "baFlag": "1",
+              "dateWeek": "(火)",
+              "fromTime": "17:30",
+              "hoursOfDur": "3H",
+              "leftCircle": "180",
+              "progPerct": "100",
+              "rightCircle": "180",
+              "rowPercent": "36",
+              "timeLongPx": "blue",
+              "toTime": "21:00",
+              "typeColor": "yel",
+              "userName": "冉 佳佳"
+            }
+          ],
+          "processId": "673191",
+          "projName": "三菱重工-RFIDPOC",
+          "reason": "未提前申请原因：需要整合现场结合测试环境，临时加班\n残業原因： 现场结合测试环境，软件安装环境，jar包运行批处理，结合测试模拟\n残業内容1：测试环境预安装　完成度予定：100％  实际完成度：100%\n残業内容2：jar包预运行　完成度予定：100％  实际完成度：100%",
+          "statusValue": "処理中",
+          "taskId": "673210"
+        }
+      ],
+      "list_rest": [
+        {
+          "agencyFlg": "0",
+          "applForUserCode": "ASDL1B9DL006",
+          "applId": "ASDL1B9DL00620200703164440",
+          "applStatus": "1",
+          "applUserName": "李 陽",
+          "beforeAfterFlag": "0",
+          "confFlag": "1",
+          "list": [
+            {
+              "applForDate": "2020/07/06",
+              "applForUserCode": "ASDL1B9DL006",
+              "attdIconChr": "年",
+              "dateWeek": "(月)",
+              "ddRestType": "0",
+              "detailMessage": "2020/07/06(月) 08:30-17:30",
+              "fixedTermFlg": "0",
+              "fromTime": "08:30",
+              "groupNo": "0",
+              "hoursOfDur": "8H/1D",
+              "toTime": "17:30",
+              "typeColor": "gre"
+            },
+            {
+              "applForDate": "2020/07/07",
+              "applForUserCode": "ASDL1B9DL006",
+              "attdIconChr": "年",
+              "dateWeek": "(火)",
+              "ddRestType": "0",
+              "detailMessage": "2020/07/07(火) - 2020/07/08(水) 08:30-17:30",
+              "fixedTermFlg": "1",
+              "fromTime": "08:30",
+              "groupNo": "1",
+              "hoursOfDur": "16H/2D",
+              "toTime": "17:30",
+              "typeColor": "gre"
+            }
+          ],
+          "processId": "722528",
+          "projName": "戦略投資DX-携帯基盤",
+          "reason": "休假",
+          "taskId": "722544",
+          "userName": "李 陽"
+        },
+        {
+          "agencyFlg": "0",
+          "applForUserCode": "ASDL1B9DL006",
+          "applId": "ASDL1B9DL00620200703144141",
+          "applStatus": "1",
+          "applUserName": "李 陽",
+          "apprOrNot": "1",
+          "beforeAfterFlag": "1",
+          "confFlag": "1",
+          "list": [
+            {
+              "applForDate": "2020/06/30",
+              "applForUserCode": "ASDL1B9DL006",
+              "attdIconChr": "年",
+              "dateWeek": "(火)",
+              "ddRestType": "0",
+              "detailMessage": "2020/06/30(火) 08:30-17:30",
+              "fixedTermFlg": "0",
+              "fromTime": "08:30",
+              "groupNo": "0",
+              "hoursOfDur": "8H/1D",
+              "toTime": "17:30",
+              "typeColor": "gre"
+            },
+            {
+              "applForDate": "2020/07/01",
+              "applForUserCode": "ASDL1B9DL006",
+              "attdIconChr": "病",
+              "dateWeek": "(水)",
+              "ddRestType": "0",
+              "detailMessage": "2020/07/01(水) 08:30-17:30",
+              "fixedTermFlg": "0",
+              "fromTime": "08:30",
+              "groupNo": "1",
+              "hoursOfDur": "8H/1D",
+              "toTime": "17:30",
+              "typeColor": "red"
+            },
+            {
+              "applForDate": "2020/07/02",
+              "applForUserCode": "ASDL1B9DL006",
+              "attdIconChr": "明",
+              "dateWeek": "(木)",
+              "ddRestType": "0",
+              "detailMessage": "2020/07/02(木) 08:30-12:10",
+              "fixedTermFlg": "0",
+              "fromTime": "08:30",
+              "groupNo": "2",
+              "hoursOfDur": "4H/0.5D",
+              "toTime": "12:10",
+              "typeColor": "gre"
+            }
+          ],
+          "processId": "720180",
+          "projName": "戦略投資DX-携帯基盤",
+          "reason": "休假",
+          "taskId": "720196",
+          "userName": "李 陽"
+        },
+        {
+          "agencyFlg": "0",
+          "applForUserCode": "ASDL1B9DL006",
+          "applId": "ASDL1B9DL00620200703143535",
+          "applStatus": "1",
+          "applUserName": "李 陽",
+          "beforeAfterFlag": "1",
+          "confFlag": "1",
+          "list": [
+            {
+              "applForDate": "2020/06/29",
+              "applForUserCode": "ASDL1B9DL006",
+              "attdIconChr": "事",
+              "dateWeek": "(月)",
+              "ddRestType": "0",
+              "detailMessage": "2020/06/29(月) 08:30-12:10",
+              "fixedTermFlg": "0",
+              "fromTime": "08:30",
+              "groupNo": "0",
+              "hoursOfDur": "4H/0.5D",
+              "toTime": "12:10",
+              "typeColor": "red"
+            },
+            {
+              "applForDate": "2020/06/29",
+              "applForUserCode": "ASDL1B9DL006",
+              "attdIconChr": "年",
+              "dateWeek": "(月)",
+              "ddRestType": "0",
+              "detailMessage": "2020/06/29(月) 13:10-17:30",
+              "fixedTermFlg": "0",
+              "fromTime": "13:10",
+              "groupNo": "1",
+              "hoursOfDur": "4H/0.5D",
+              "toTime": "17:30",
+              "typeColor": "gre"
+            }
+          ],
+          "processId": "720161",
+          "projName": "戦略投資DX-携帯基盤",
+          "reason": "休假",
+          "taskId": "720177",
+          "userName": "李 陽"
+        },
+        {
+          "agencyFlg": "0",
+          "applForUserCode": "ASDL1A5DL064",
+          "applId": "ASDL1A5DL06420200602153430",
+          "applStatus": "1",
+          "applUserName": "梁 冰",
+          "beforeAfterFlag": "0",
+          "confFlag": "1",
+          "list": [
+            {
+              "applForDate": "2020/06/04",
+              "applForUserCode": "ASDL1A5DL064",
+              "attdIconChr": "年",
+              "dateWeek": "(木)",
+              "ddRestType": "0",
+              "detailMessage": "2020/06/04(木) 13:10-17:30",
+              "fixedTermFlg": "0",
+              "fromTime": "13:10",
+              "groupNo": "0",
+              "hoursOfDur": "4H/0.5D",
+              "toTime": "17:30",
+              "typeColor": "gre"
+            }
+          ],
+          "processId": "672874",
+          "projName": "内販-CLS-LocalSolution共通",
+          "reason": "配家属去医院看病",
+          "taskId": "672890",
+          "userName": "梁 冰"
+        }
+      ],
+      "list_attendance": [
+        {
+          "agencyFlg": "0",
+          "applForUserCode": "ASDL1B9DL006",
+          "applId": "ASDL1B9DL00620200703143446",
+          "applUserName": "李 陽",
+          "confFlag": "1",
+          "list": [
+            {
+              "aftrClockIn": "08:30",
+              "aftrClockOut": "17:30",
+              "applForDate": "2020/06/27",
+              "befoClockIn": "―:―",
+              "befoClockOut": "―:―",
+              "dateWeek": "(土)"
+            },
+            {
+              "aftrClockIn": "08:30",
+              "aftrClockOut": "17:30",
+              "applForDate": "2020/06/28",
+              "befoClockIn": "―:―",
+              "befoClockOut": "―:―",
+              "dateWeek": "(日)"
+            },
+            {
+              "aftrClockIn": "08:30",
+              "aftrClockOut": "17:30",
+              "applForDate": "2020/06/29",
+              "befoClockIn": "08:16",
+              "befoClockOut": "18:15",
+              "dateWeek": "(月)"
+            }
+          ],
+          "processId": "720142",
+          "reason": "打刻",
+          "taskId": "720158",
+          "userName": "李 陽"
+        },
+        {
+          "agencyFlg": "0",
+          "applForUserCode": "ASDL1B9DL006",
+          "applId": "ASDL1B9DL00620200703143352",
+          "applUserName": "李 陽",
+          "confFlag": "1",
+          "list": [
+            {
+              "aftrClockIn": "08:30",
+              "aftrClockOut": "17:30",
+              "applForDate": "2020/06/26",
+              "befoClockIn": "―:―",
+              "befoClockOut": "―:―",
+              "dateWeek": "(金)"
+            }
+          ],
+          "processId": "720123",
+          "reason": "打刻",
+          "taskId": "720139",
+          "userName": "李 陽"
+        },
+        {
+          "agencyFlg": "0",
+          "applForUserCode": "ASDL1C0DL027",
+          "applId": "ASDL1C0DL02720200703124503",
+          "applUserName": "張 曉彤",
+          "confFlag": "1",
+          "list": [
+            {
+              "aftrClockIn": "08:30",
+              "aftrClockOut": "17:30",
+              "applForDate": "2020/07/01",
+              "befoClockIn": "11:18",
+              "befoClockOut": "17:40",
+              "dateWeek": "(水)"
+            }
+          ],
+          "processId": "717838",
+          "reason": "早晨刷脸时间记录在旧工号上，新工号在中午时才生效，数据没有同步上。因此申请打刻变更。",
+          "taskId": "717854",
+          "userName": "張 曉彤"
+        },
+        {
+          "agencyFlg": "0",
+          "applForUserCode": "ASDL3DL00360",
+          "applId": "ASDL3DL0036020200703122404",
+          "applUserName": "常 思安",
+          "confFlag": "1",
+          "list": [
+            {
+              "aftrClockIn": "08:40",
+              "aftrClockOut": "17:30",
+              "applForDate": "2020/07/02",
+              "befoClockIn": "17:30",
+              "befoClockOut": "―:―",
+              "dateWeek": "(木)"
+            }
+          ],
+          "processId": "717810",
+          "reason": "早上没打上卡",
+          "taskId": "717826",
+          "userName": "常 思安"
+        }
+      ],
+      "list_timeChange": [
+        {
+          "agencyFlg": "0",
+          "applForUserCode": "ASDL1B9DL006",
+          "applId": "ASDL1B9DL00620200703143446",
+          "applUserName": "李 陽",
+          "confFlag": "1",
+          "list": [
+            {
+              "aftrClockIn": "08:30",
+              "aftrClockOut": "17:30",
+              "applForDate": "2020/06/27",
+              "befoClockIn": "―:―",
+              "befoClockOut": "―:―",
+              "dateWeek": "(土)"
+            },
+            {
+              "aftrClockIn": "08:30",
+              "aftrClockOut": "17:30",
+              "applForDate": "2020/06/28",
+              "befoClockIn": "―:―",
+              "befoClockOut": "―:―",
+              "dateWeek": "(日)"
+            },
+            {
+              "aftrClockIn": "08:30",
+              "aftrClockOut": "17:30",
+              "applForDate": "2020/06/29",
+              "befoClockIn": "08:16",
+              "befoClockOut": "18:15",
+              "dateWeek": "(月)"
+            }
+          ],
+          "processId": "720142",
+          "reason": "打刻",
+          "taskId": "720158",
+          "userName": "李 陽"
+        },
+        {
+          "agencyFlg": "0",
+          "applForUserCode": "ASDL1B9DL006",
+          "applId": "ASDL1B9DL00620200703143352",
+          "applUserName": "李 陽",
+          "confFlag": "1",
+          "list": [
+            {
+              "aftrClockIn": "08:30",
+              "aftrClockOut": "17:30",
+              "applForDate": "2020/06/26",
+              "befoClockIn": "―:―",
+              "befoClockOut": "―:―",
+              "dateWeek": "(金)"
+            }
+          ],
+          "processId": "720123",
+          "reason": "打刻",
+          "taskId": "720139",
+          "userName": "李 陽"
+        },
+        {
+          "agencyFlg": "0",
+          "applForUserCode": "ASDL1C0DL027",
+          "applId": "ASDL1C0DL02720200703124503",
+          "applUserName": "張 曉彤",
+          "confFlag": "1",
+          "list": [
+            {
+              "aftrClockIn": "08:30",
+              "aftrClockOut": "17:30",
+              "applForDate": "2020/07/01",
+              "befoClockIn": "11:18",
+              "befoClockOut": "17:40",
+              "dateWeek": "(水)"
+            }
+          ],
+          "processId": "717838",
+          "reason": "早晨刷脸时间记录在旧工号上，新工号在中午时才生效，数据没有同步上。因此申请打刻变更。",
+          "taskId": "717854",
+          "userName": "張 曉彤"
+        },
+        {
+          "agencyFlg": "0",
+          "applForUserCode": "ASDL3DL00360",
+          "applId": "ASDL3DL0036020200703122404",
+          "applUserName": "常 思安",
+          "confFlag": "1",
+          "list": [
+            {
+              "aftrClockIn": "08:40",
+              "aftrClockOut": "17:30",
+              "applForDate": "2020/07/02",
+              "befoClockIn": "17:30",
+              "befoClockOut": "―:―",
+              "dateWeek": "(木)"
+            }
+          ],
+          "processId": "717810",
+          "reason": "早上没打上卡",
+          "taskId": "717826",
+          "userName": "常 思安"
+        }
+      ]
+    },
+    "errorMsg": {}
+  }
+}
