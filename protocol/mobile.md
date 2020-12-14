@@ -46,28 +46,28 @@ Connection: Keep-Alive
 Accept-Encoding: gzip
 User-Agent: okhttp/3.12.1
 
-{"platform":"android","version":"1.0.4"}
+{"platform":"android","version":"1.0.6"}
 ```
 ```
 HTTP/1.1 200
 Server: nginx/1.17.8
-Date: Sat, 31 Oct 2020 14:40:06 GMT
+Date: Mon, 14 Dec 2020 13:37:55 GMT
 Content-Type: application/json;charset=utf-8
-Content-Length: 406
+Content-Length: 400
 Connection: keep-alive
 
 {
     "code": 0,
     "data": {
         "appSize": "25666",
-        "description": "1.App图标变更\r\n2.修复部分页面出现的闪退和白屏问题\r\n3.修复申请信息推送失败的问题\r\n4.修复部分消息国际化缺失的问题",
+        "description": "1.修复非首次登录后出现的请求异常问题\r\n2.修复部分图标显示错误的问题\r\n3.启动页样式调整，适配不同分辨率的机型",
         "downloadUrl": "https://mobile.alsi.cn/download/app.html",
         "enable": "1",
         "id": 36,
         "mandatory": "1",
         "platform": "android",
-        "updateDate": "2020-10-27",
-        "version": "1.0.6"
+        "updateDate": "2020-11-05",
+        "version": "1.0.7"
     },
     "msg": "i18n_versionUpToDate"
 }
