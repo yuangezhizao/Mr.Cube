@@ -113,12 +113,18 @@
         "attdCode": "005",
         "beforeFlg": "1",
         "day": 26,
-        "iconFlg": "00",
+        "holidayName": "端午",
+        "iconFlg": "04",
+        "iconCode": "出勤の予定と実績が不一致、本日の申請を変更して、或は打刻情報修正を申請してください。",
         "warDateFlg": "0",
         "week": "2",
+        "weekDay": "rest holiday",
         "workType": {
-          "gre有": "8.0"
-        }
+          "yel残": "22.5",
+          "gre有": "28.0",
+          "red欠": "123.0"
+        },
+        "outType": "0303"
       },
       {
         "attdCode": "009",

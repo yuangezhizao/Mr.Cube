@@ -1,5 +1,5 @@
 {
-  "userCode": "ASDL1B3DL012",
+  "userCode": "ASDL0000TEST",
   "password": "123456",
   "methodName": "doLogin",
   "pageName": "Login",
@@ -18,9 +18,9 @@
       "msg": "",
       "registerDate": "20130801",
       "retireDate": "",
-      "userCode": "ASDL1B3DL012",
+      "userCode": "ASDL0000TEST",
       "userFlag": "0",
-      "userName": "王 濤"
+      "userName": "测试号"
     },
     "USER_RESOURCE_ITEM_LIST": [
       {
